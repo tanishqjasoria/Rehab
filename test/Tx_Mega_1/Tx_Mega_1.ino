@@ -282,9 +282,9 @@ void loop(void)
 
 void _print()
 {
-  float a = ((float)Data.forceSens6)/100;
-  float b = ((float)Data.forceSens7)*grav/(100);
-  float c = ((float)Data.forceSens8)*grav/(100);
+  float a = ((float)Data.forceSens6)/(100);
+  float b = ((float)Data.forceSens7)/(100);
+  float c = ((float)Data.forceSens8)/(100);
   t_t=millis()/1000.0;
   Serial.print("time =");Serial.print(t_t,4);
   Serial.print(" pitch =");Serial.print(pitch-pitch_init);
