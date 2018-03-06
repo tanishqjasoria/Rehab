@@ -5,6 +5,7 @@
 #define calibration_factor -23000.0 //found out exp increase or decrease for matching using std weights
 #define DOUT1 2
 #define CLK1 3
+#define g 9.81
 
 #define DOUT2 5
 #define CLK2 4
@@ -135,21 +136,21 @@ if(roll<0)
   roll=roll+360;
 }
 
-if(GYRX<0)
-{
-  GYRX=GYRX+250;
-}
-
-  
-if(GYRY<0)
-{
-  GYRY=GYRY+250;
-}
-
-if(GYRZ<0)
-{
-  GYRZ=GYRZ+250;
-}
+//if(GYRX<0)
+//{
+//  GYRX=GYRX+250;
+//}
+//
+//  
+//if(GYRY<0)
+//{
+//  GYRY=GYRY+250;
+//}
+//
+//if(GYRZ<0)
+//{
+//  GYRZ=GYRZ+250;
+//}
   
   //Serial.println(y_theta);
 }
@@ -262,9 +263,9 @@ void loop(void)
 
 void _print()
 {
-  float a = ((float)Data.forceSens6)/100;
-  float b = ((float)Data.forceSens7)/100;
-  float c = ((float)Data.forceSens8)/100;
+  float a = ((float)Data.forceSens6)*g/100;
+  float b = ((float)Data.forceSens7)*g/100;
+  float c = ((float)Data.forceSens8)*g/100;
   t_t=millis()/1000.0;
   Serial.print("time =");Serial.print(t_t,4);
   Serial.print(" pitch =");Serial.print(pitch);
