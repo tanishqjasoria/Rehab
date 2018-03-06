@@ -5,6 +5,7 @@
 #define calibration_factor -23000.0 //found out exp increase or decrease for matching using std weights
 #define DOUT1 3
 #define CLK1 2
+#define g 9.81
 
 #define DOUT2 5
 #define CLK2 6
@@ -27,7 +28,7 @@ float y_old_theta=0,y_theta=0;
 float x_old_theta=0,x_theta=0;
 float pitch = 0, roll = 0;
 
-int GYRY=0, GYRX=0, GYRZ=0;
+float GYRY=0, GYRX=0, GYRZ=0;
 
 //Force Sensor Variables
 int fsrPin[7] = {A0, A1, A2, A3, A5, A10, A11};     // the FSR and 10K pulldown are connected to a0
@@ -43,9 +44,9 @@ typedef struct
   int id; // id
   int pitch; // angle
   int roll;
-  int gyrx;
-  int gyry;
-  int gyrz;
+  float gyrx;
+  float gyry;
+  float gyrz;
   int forceSens1;
   int forceSens2;
   int forceSens3;
@@ -135,21 +136,21 @@ if(roll<0)
   roll=roll+360;
 }
 
-if(GYRX<0)
-{
-  GYRX=GYRX+250;
-}
-
-  
-if(GYRY<0)
-{
-  GYRY=GYRY+250;
-}
-
-if(GYRZ<0)
-{
-  GYRZ=GYRZ+250;
-}
+//if(GYRX<0)
+//{
+//  GYRX=GYRX+250;
+//}
+//
+//  
+//if(GYRY<0)
+//{
+//  GYRY=GYRY+250;
+//}
+//
+//if(GYRZ<0)
+//{
+//  GYRZ=GYRZ+250;
+//}
   
   //Serial.println(y_theta);
 }
@@ -262,9 +263,9 @@ void loop(void)
 
 void _print()
 {
-  float a = ((float)Data.forceSens6)/100;
-  float b = ((float)Data.forceSens7)/100;
-  float c = ((float)Data.forceSens8)/100;
+  float a = ((float)Data.forceSens6)*g/100;
+  float b = ((float)Data.forceSens7)*g/100;
+  float c = ((float)Data.forceSens8)*g/100;
   t_t=millis()/1000.0;
   Serial.print("time =");Serial.print(t_t,4);
   Serial.print(" pitch =");Serial.print(pitch);
@@ -282,5 +283,6 @@ void _print()
   Serial.print("  G1 =");Serial.print(a);
   Serial.print("  G2 =");Serial.print(b);
   Serial.print("  G3 =");Serial.println(c);
+  delay(10);
   Serial.println();
 }
