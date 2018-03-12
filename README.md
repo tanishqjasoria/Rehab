@@ -1,2 +1,2 @@
 # Rehab
-Rehabilitaion Robotics
+Rehabilitation Robotics
