@@ -1,0 +1,2453 @@
+=rz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =4.12  G2 =0.00  G3 =3.53
+
+.30  roll =40.76  gyrx =-4  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =4.12  G2 =0.00  G3 =3.53
+
+time =0.3050 pitch =14.77  roll =6.61  gyrx =-2  gyry =-2  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.3180 pitch =27.12  roll =12.25  gyrx =0  gyry =0  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.3310 pitch =37.39  roll =16.96  gyrx =2  gyry =1  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.3450 pitch =45.78  roll =20.99  gyrx =4  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =0.3580 pitch =52.79  roll =24.23  gyrx =4  gyry =6  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.3710 pitch =58.92  roll =26.74  gyrx =2  gyry =6  gyrz =3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.3850 pitch =64.39  roll =28.90  gyrx =0  gyry =4  gyrz =5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.3980 pitch =69.24  roll =30.43  gyrx =-3  gyry =-1  gyrz =3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.4110 pitch =73.36  roll =31.90  gyrx =-5  gyry =-3  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.4240 pitch =76.62  roll =33.05  gyrx =-7  gyry =-2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.4380 pitch =79.37  roll =34.11  gyrx =-7  gyry =-1  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.4520 pitch =81.89  roll =35.07  gyrx =-7  gyry =-2  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.4650 pitch =84.04  roll =36.17  gyrx =-7  gyry =-1  gyrz =-7  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.4790 pitch =85.85  roll =37.21  gyrx =-7  gyry =-3  gyrz =-8  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.4920 pitch =87.27  roll =38.34  gyrx =-5  gyry =-2  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.5050 pitch =88.32  roll =39.22  gyrx =-3  gyry =-2  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.5200 pitch =89.32  roll =40.09  gyrx =-1  gyry =-1  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =-2180.37  G3 =0.00
+
+time =0.5410 pitch =90.42  roll =40.95  gyrx =0  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.5550 pitch =91.54  roll =41.54  gyrx =1  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.5680 pitch =92.28  roll =41.77  gyrx =3  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.5810 pitch =92.73  roll =41.96  gyrx =4  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.5940 pitch =93.01  roll =41.92  gyrx =4  gyry =4  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.6080 pitch =93.26  roll =41.89  gyrx =3  gyry =3  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.6210 pitch =93.76  roll =41.99  gyrx =0  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.6340 pitch =94.15  roll =41.94  gyrx =-2  gyry =0  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.6480 pitch =94.55  roll =41.93  gyrx =-4  gyry =-2  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.6620 pitch =94.72  roll =41.96  gyrx =-5  gyry =-1  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.6750 pitch =94.98  roll =42.06  gyrx =-4  gyry =-1  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.6890 pitch =95.33  roll =42.22  gyrx =-2  gyry =0  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.7020 pitch =95.38  roll =42.44  gyrx =0  gyry =0  gyrz =-7  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.7150 pitch =95.49  roll =42.73  gyrx =2  gyry =0  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.7290 pitch =95.42  roll =43.00  gyrx =3  gyry =1  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.7420 pitch =95.28  roll =43.21  gyrx =3  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.7550 pitch =95.53  roll =43.42  gyrx =3  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =0.7690 pitch =95.81  roll =43.39  gyrx =3  gyry =4  gyrz =2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =0.7820 pitch =96.11  roll =43.31  gyrx =3  gyry =2  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.7950 pitch =96.14  roll =43.01  gyrx =3  gyry =2  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8080 pitch =96.18  roll =42.68  gyrx =1  gyry =3  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8220 pitch =96.21  roll =42.40  gyrx =-1  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8350 pitch =96.32  roll =42.24  gyrx =-4  gyry =0  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8480 pitch =96.46  roll =42.10  gyrx =-5  gyry =-2  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8630 pitch =96.49  roll =42.04  gyrx =-6  gyry =-2  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8760 pitch =96.55  roll =42.09  gyrx =-5  gyry =-2  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.8890 pitch =96.32  roll =42.39  gyrx =-4  gyry =-2  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.9030 pitch =96.24  roll =42.77  gyrx =-2  gyry =0  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.9160 pitch =96.24  roll =43.10  gyrx =-1  gyry =1  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.9290 pitch =96.28  roll =43.28  gyrx =0  gyry =2  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.9430 pitch =96.32  roll =43.47  gyrx =0  gyry =3  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.9560 pitch =96.07  roll =43.52  gyrx =0  gyry =3  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.9690 pitch =95.69  roll =43.54  gyrx =0  gyry =3  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =0.9830 pitch =95.47  roll =43.39  gyrx =-1  gyry =1  gyrz =2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =0.9960 pitch =95.44  roll =43.18  gyrx =-3  gyry =0  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0090 pitch =95.66  roll =43.15  gyrx =-6  gyry =-1  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0220 pitch =95.95  roll =43.12  gyrx =-7  gyry =-3  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.0360 pitch =96.10  roll =43.05  gyrx =-7  gyry =-5  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0500 pitch =95.99  roll =43.12  gyrx =-6  gyry =-2  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0630 pitch =95.87  roll =43.26  gyrx =-4  gyry =0  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0770 pitch =95.86  roll =43.39  gyrx =-3  gyry =0  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.0900 pitch =95.88  roll =43.54  gyrx =-2  gyry =1  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.1030 pitch =95.83  roll =43.57  gyrx =-2  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.1170 pitch =96.03  roll =43.70  gyrx =-2  gyry =-1  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.1300 pitch =96.07  roll =43.64  gyrx =-2  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.1430 pitch =95.96  roll =43.65  gyrx =-1  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.1570 pitch =95.92  roll =43.41  gyrx =-1  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.1700 pitch =95.83  roll =43.28  gyrx =-1  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.1840 pitch =95.88  roll =43.16  gyrx =-3  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.1980 pitch =96.01  roll =43.07  gyrx =-5  gyry =-2  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.2110 pitch =96.26  roll =43.03  gyrx =-5  gyry =-3  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.2240 pitch =96.45  roll =43.13  gyrx =-6  gyry =-3  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.2380 pitch =96.53  roll =43.21  gyrx =-5  gyry =-1  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.2520 pitch =96.60  roll =43.33  gyrx =-3  gyry =-2  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.2650 pitch =96.66  roll =43.40  gyrx =-2  gyry =0  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.2780 pitch =96.60  roll =43.46  gyrx =-1  gyry =1  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.2920 pitch =96.69  roll =43.56  gyrx =-1  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.3050 pitch =96.65  roll =43.68  gyrx =-1  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.3180 pitch =96.58  roll =43.67  gyrx =0  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.3320 pitch =96.56  roll =43.56  gyrx =0  gyry =1  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.3450 pitch =96.56  roll =43.42  gyrx =0  gyry =0  gyrz =2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.3580 pitch =96.43  roll =43.23  gyrx =-1  gyry =0  gyrz =2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.3720 pitch =96.42  roll =43.08  gyrx =-3  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.3850 pitch =96.41  roll =42.97  gyrx =-4  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.3980 pitch =96.57  roll =42.97  gyrx =-4  gyry =-1  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.4120 pitch =96.64  roll =42.99  gyrx =-4  gyry =0  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.4260 pitch =96.50  roll =43.01  gyrx =-3  gyry =0  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.4390 pitch =96.41  roll =43.25  gyrx =-3  gyry =0  gyrz =-5  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.4530 pitch =96.20  roll =43.52  gyrx =-2  gyry =0  gyrz =-3  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.4660 pitch =95.98  roll =43.73  gyrx =-1  gyry =0  gyrz =-1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.4790 pitch =96.09  roll =43.83  gyrx =0  gyry =1  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.4920 pitch =96.39  roll =44.08  gyrx =0  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.5060 pitch =96.76  roll =44.33  gyrx =1  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.5190 pitch =96.96  roll =44.55  gyrx =2  gyry =0  gyrz =0  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.5320 pitch =97.05  roll =44.60  gyrx =3  gyry =2  gyrz =-2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =1.5460 pitch =97.07  roll =44.67  gyrx =5  gyry =5  gyrz =-4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.5590 pitch =97.26  roll =44.76  gyrx =5  gyry =7  gyrz =-8  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =1.5720 pitch =97.79  roll =44.96  gyrx =4  gyry =6  gyrz =-9  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.5860 pitch =98.81  roll =45.37  gyrx =3  gyry =4  gyrz =-11  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.5990 pitch =99.91  roll =46.01  gyrx =3  gyry =5  gyrz =-14  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.6120 pitch =101.30  roll =46.81  gyrx =4  gyry =6  gyrz =-22  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.6260 pitch =103.26  roll =48.11  gyrx =6  gyry =8  gyrz =-32  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =1.6390 pitch =104.66  roll =49.41  gyrx =11  gyry =8  gyrz =-33  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.6530 pitch =104.82  roll =49.91  gyrx =23  gyry =10  gyrz =-29  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.6670 pitch =104.67  roll =50.17  gyrx =32  gyry =19  gyrz =-37  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.6800 pitch =104.64  roll =51.24  gyrx =39  gyry =34  gyrz =-46  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.6940 pitch =105.50  roll =52.49  gyrx =38  gyry =36  gyrz =-48  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =1.7080 pitch =106.82  roll =54.15  gyrx =37  gyry =26  gyrz =-44  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.7220 pitch =108.25  roll =56.30  gyrx =37  gyry =23  gyrz =-41  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.7350 pitch =109.09  roll =57.80  gyrx =43  gyry =23  gyrz =-31  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =1.7480 pitch =108.58  roll =58.40  gyrx =55  gyry =28  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.10
+
+time =1.7630 pitch =108.55  roll =58.60  gyrx =64  gyry =35  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.10
+
+time =1.7760 pitch =108.78  roll =58.98  gyrx =68  gyry =35  gyrz =-24  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.7890 pitch =108.94  roll =59.68  gyrx =69  gyry =38  gyrz =-25  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.8040 pitch =109.70  roll =59.76  gyrx =66  gyry =37  gyrz =-23  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.8170 pitch =110.62  roll =59.99  gyrx =62  gyry =28  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.8300 pitch =110.87  roll =60.21  gyrx =57  gyry =27  gyrz =-18  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.8450 pitch =109.66  roll =59.20  gyrx =58  gyry =33  gyrz =-19  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.8580 pitch =108.66  roll =58.16  gyrx =59  gyry =32  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =1.8720 pitch =108.43  roll =57.56  gyrx =58  gyry =27  gyrz =-22  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.20
+
+time =1.8860 pitch =107.97  roll =57.62  gyrx =55  gyry =25  gyrz =-15  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.29
+
+time =1.8990 pitch =107.88  roll =57.75  gyrx =50  gyry =20  gyrz =-11  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.20
+
+time =1.9130 pitch =108.35  roll =58.95  gyrx =47  gyry =8  gyrz =-9  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.20
+
+time =1.9270 pitch =109.10  roll =60.74  gyrx =45  gyry =-1  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.20
+
+time =1.9400 pitch =109.94  roll =62.93  gyrx =48  gyry =-6  gyrz =-13  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.9540 pitch =110.71  roll =65.21  gyrx =53  gyry =-1  gyrz =-19  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.9680 pitch =111.35  roll =66.79  gyrx =55  gyry =0  gyrz =-19  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.20
+
+time =1.9810 pitch =111.24  roll =66.86  gyrx =61  gyry =13  gyrz =-14  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =1.9950 pitch =111.02  roll =66.37  gyrx =65  gyry =16  gyrz =-23  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.10
+
+time =2.0090 pitch =110.29  roll =65.16  gyrx =67  gyry =26  gyrz =-25  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =2.0220 pitch =108.67  roll =63.80  gyrx =70  gyry =23  gyrz =-33  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =2.0360 pitch =106.99  roll =63.18  gyrx =66  gyry =25  gyrz =-44  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =2.0500 pitch =106.05  roll =63.17  gyrx =54  gyry =25  gyrz =-48  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =2.0630 pitch =106.10  roll =63.00  gyrx =40  gyry =23  gyrz =-39  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.20
+
+time =2.0770 pitch =106.46  roll =62.49  gyrx =30  gyry =18  gyrz =-29  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =2.0910 pitch =106.58  roll =62.00  gyrx =21  gyry =15  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =2.1050 pitch =107.07  roll =62.12  gyrx =12  gyry =11  gyrz =-27  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1180 pitch =107.81  roll =62.31  gyrx =3  gyry =5  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1310 pitch =108.00  roll =62.82  gyrx =-2  gyry =-8  gyrz =-24  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1450 pitch =108.08  roll =63.70  gyrx =-3  gyry =-21  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1590 pitch =107.86  roll =64.88  gyrx =-2  gyry =-27  gyrz =-19  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1720 pitch =107.52  roll =66.04  gyrx =0  gyry =-24  gyrz =-19  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.1870 pitch =107.22  roll =67.45  gyrx =5  gyry =-19  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.2000 pitch =107.17  roll =69.47  gyrx =8  gyry =-13  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.2130 pitch =107.43  roll =71.13  gyrx =10  gyry =-8  gyrz =-25  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.2280 pitch =108.09  roll =72.47  gyrx =17  gyry =-5  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.2410 pitch =108.71  roll =73.71  gyrx =22  gyry =-2  gyrz =-14  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.2550 pitch =109.37  roll =74.81  gyrx =26  gyry =2  gyrz =-12  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.2690 pitch =110.03  roll =75.55  gyrx =28  gyry =9  gyrz =-9  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.2820 pitch =110.71  roll =75.89  gyrx =29  gyry =14  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.2950 pitch =111.36  roll =75.89  gyrx =29  gyry =17  gyrz =-6  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =2.3100 pitch =112.81  roll =75.57  gyrx =25  gyry =21  gyrz =-8  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =2.3230 pitch =113.07  roll =74.92  gyrx =30  gyry =25  gyrz =-10  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =2.3360 pitch =113.06  roll =74.56  gyrx =29  gyry =26  gyrz =-13  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.10
+
+time =2.3510 pitch =113.07  roll =73.61  gyrx =16  gyry =33  gyrz =-9  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.20
+
+time =2.3640 pitch =113.36  roll =72.73  gyrx =-17  gyry =-3  gyrz =-15  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.29
+
+time =2.3770 pitch =112.81  roll =70.42  gyrx =-24  gyry =-16  gyrz =24  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =2.3920 pitch =111.78  roll =68.54  gyrx =-17  gyry =-20  gyrz =13  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4050 pitch =110.63  roll =67.98  gyrx =-10  gyry =-4  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4180 pitch =109.59  roll =69.23  gyrx =2  gyry =17  gyrz =-12  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4330 pitch =109.84  roll =70.96  gyrx =10  gyry =22  gyrz =-15  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4460 pitch =111.97  roll =72.13  gyrx =1  gyry =20  gyrz =-23  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4590 pitch =113.08  roll =72.97  gyrx =-4  gyry =9  gyrz =-17  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4730 pitch =113.73  roll =74.73  gyrx =-3  gyry =-2  gyrz =-7  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.4870 pitch =114.26  roll =76.06  gyrx =-6  gyry =-6  gyrz =4  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5000 pitch =114.84  roll =76.64  gyrx =-7  gyry =-5  gyrz =3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5130 pitch =115.40  roll =77.09  gyrx =-7  gyry =-6  gyrz =-6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5280 pitch =115.43  roll =77.19  gyrx =-8  gyry =-6  gyrz =-6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5410 pitch =114.80  roll =77.10  gyrx =-9  gyry =-7  gyrz =7  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5540 pitch =114.29  roll =76.72  gyrx =-2  gyry =-5  gyrz =13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5680 pitch =113.29  roll =77.11  gyrx =2  gyry =-10  gyrz =1  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5820 pitch =112.62  roll =77.45  gyrx =1  gyry =-2  gyrz =-7  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.5950 pitch =112.37  roll =77.77  gyrx =0  gyry =4  gyrz =-13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6090 pitch =112.77  roll =78.03  gyrx =0  gyry =7  gyrz =-13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6220 pitch =113.47  roll =78.26  gyrx =-1  gyry =4  gyrz =-6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6350 pitch =114.00  roll =78.32  gyrx =-2  gyry =-4  gyrz =3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6500 pitch =114.04  roll =78.27  gyrx =-1  gyry =-11  gyrz =7  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6630 pitch =113.78  roll =78.29  gyrx =1  gyry =-11  gyrz =7  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6760 pitch =113.53  roll =78.19  gyrx =2  gyry =-6  gyrz =2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.6900 pitch =113.39  roll =78.23  gyrx =0  gyry =-2  gyrz =-3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7030 pitch =113.38  roll =78.47  gyrx =0  gyry =-1  gyrz =-3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7170 pitch =113.59  roll =78.58  gyrx =-1  gyry =-2  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7310 pitch =113.55  roll =78.59  gyrx =-2  gyry =-4  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7440 pitch =113.66  roll =78.46  gyrx =-3  gyry =-1  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7570 pitch =113.73  roll =78.41  gyrx =-2  gyry =0  gyrz =-2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7700 pitch =113.81  roll =78.53  gyrx =0  gyry =2  gyrz =-2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7840 pitch =113.64  roll =78.71  gyrx =0  gyry =1  gyrz =-3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.7980 pitch =113.77  roll =78.78  gyrx =2  gyry =3  gyrz =-4  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8110 pitch =113.84  roll =78.79  gyrx =2  gyry =1  gyrz =-4  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8250 pitch =113.78  roll =78.59  gyrx =0  gyry =4  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8380 pitch =113.50  roll =78.10  gyrx =-3  gyry =4  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8510 pitch =113.32  roll =77.54  gyrx =-5  gyry =4  gyrz =-1  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8650 pitch =113.29  roll =77.49  gyrx =-4  gyry =9  gyrz =-6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8780 pitch =113.59  roll =77.81  gyrx =-4  gyry =12  gyrz =-13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.8920 pitch =113.82  roll =78.15  gyrx =-5  gyry =11  gyrz =-13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9060 pitch =113.62  roll =78.27  gyrx =-4  gyry =7  gyrz =-8  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9190 pitch =113.66  roll =78.60  gyrx =-4  gyry =3  gyrz =-3  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9320 pitch =113.69  roll =78.59  gyrx =-5  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9470 pitch =113.68  roll =78.42  gyrx =-6  gyry =3  gyrz =-3  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9600 pitch =113.94  roll =78.23  gyrx =-7  gyry =9  gyrz =-7  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9730 pitch =114.25  roll =78.20  gyrx =-7  gyry =12  gyrz =-8  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =2.9870 pitch =114.43  roll =78.12  gyrx =-7  gyry =8  gyrz =-6  F1 =1  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0010 pitch =114.77  roll =77.97  gyrx =-6  gyry =3  gyrz =-5  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0140 pitch =114.84  roll =78.06  gyrx =-5  gyry =5  gyrz =-4  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0270 pitch =114.93  roll =78.13  gyrx =-5  gyry =5  gyrz =-6  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0410 pitch =114.96  roll =78.25  gyrx =-4  gyry =4  gyrz =-6  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0540 pitch =115.05  roll =78.37  gyrx =-5  gyry =4  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0680 pitch =115.01  roll =78.34  gyrx =-4  gyry =1  gyrz =-4  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0820 pitch =115.00  roll =78.27  gyrx =-4  gyry =2  gyrz =-4  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.0950 pitch =115.01  roll =78.21  gyrx =-4  gyry =3  gyrz =-6  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1090 pitch =115.05  roll =78.30  gyrx =-4  gyry =4  gyrz =-6  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1230 pitch =115.15  roll =78.43  gyrx =-4  gyry =2  gyrz =-8  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1360 pitch =115.30  roll =78.50  gyrx =-4  gyry =4  gyrz =-4  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1500 pitch =115.47  roll =78.52  gyrx =-5  gyry =3  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1640 pitch =115.54  roll =78.45  gyrx =-5  gyry =2  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1770 pitch =115.53  roll =78.43  gyrx =-4  gyry =1  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.1900 pitch =115.52  roll =78.39  gyrx =-4  gyry =2  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2050 pitch =115.60  roll =78.34  gyrx =-4  gyry =3  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2180 pitch =115.67  roll =78.28  gyrx =-4  gyry =2  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2310 pitch =115.79  roll =78.11  gyrx =-4  gyry =2  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2460 pitch =115.76  roll =78.06  gyrx =-4  gyry =2  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2590 pitch =115.75  roll =78.08  gyrx =-4  gyry =2  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2720 pitch =115.76  roll =78.02  gyrx =-4  gyry =2  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.2870 pitch =115.87  roll =78.13  gyrx =-3  gyry =1  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3000 pitch =116.02  roll =78.13  gyrx =-4  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3130 pitch =116.01  roll =78.09  gyrx =-3  gyry =0  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3260 pitch =116.11  roll =77.98  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3410 pitch =116.15  roll =77.91  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3540 pitch =116.17  roll =77.96  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3670 pitch =116.20  roll =77.98  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3820 pitch =116.19  roll =77.96  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.3950 pitch =116.15  roll =77.94  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4080 pitch =116.17  roll =77.89  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4220 pitch =116.23  roll =77.88  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4360 pitch =116.31  roll =77.83  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4490 pitch =116.22  roll =77.83  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4630 pitch =116.22  roll =77.81  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4770 pitch =116.26  roll =77.83  gyrx =-2  gyry =0  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.4900 pitch =116.28  roll =77.89  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.5040 pitch =116.29  roll =77.85  gyrx =-3  gyry 2G3 =0.00
+
+time =3.9260 pitc gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9260 pitch =116.21  roll =77.80  gyrx =-3  gyry =0  gyrz =  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9260 pitch =116.21  roll =77.80  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9400 pitch =116.28  roll =77.79  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9530 pitch =116.24  roll =77.76  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9660 pitch =116.29  roll =77.72  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9810 pitch =116.31  roll =77.75  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =3.9940 pitch =116.32  roll =77.79  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0070 pitch =116.35  roll =77.75  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0210 pitch =116.39  roll =77.75  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0350 pitch =116.30  roll =77.72  gyrx =-2  gyry =0  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0480 pitch =116.21  roll =77.72  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0620 pitch =116.21  roll =77.76  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0760 pitch =116.14  roll =77.74  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.0890 pitch =116.23  roll =77.74  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1030 pitch =116.25  roll =77.76  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1160 pitch =116.22  roll =77.79  gyrx =-2  gyry =0  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1300 pitch =116.23  roll =77.68  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1440 pitch =116.25  roll =77.63  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1570 pitch =116.22  roll =77.67  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1710 pitch =116.16  roll =77.69  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1850 pitch =116.17  roll =77.72  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.1980 pitch =116.14  roll =77.74  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2110 pitch =116.14  roll =77.76  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2260 pitch =116.16  roll =77.74  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2390 pitch =116.21  roll =77.73  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2520 pitch =116.19  roll =77.75  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2670 pitch =116.18  roll =77.74  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2800 pitch =116.20  roll =77.69  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.2930 pitch =116.21  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3070 pitch =116.32  roll =77.73  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3210 pitch =116.28  roll =77.72  gyrx =-3  gyry =0  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3340 pitch =116.26  roll =77.69  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3470 pitch =116.27  roll =77.68  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3620 pitch =116.24  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3750 pitch =116.30  roll =77.70  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.3880 pitch =116.30  roll =77.71  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4020 pitch =116.29  roll =77.79  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4160 pitch =116.30  roll =77.76  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4290 pitch =116.32  roll =77.72  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4430 pitch =116.36  roll =77.71  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4570 pitch =116.35  roll =77.69  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4700 pitch =116.44  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4840 pitch =116.43  roll =77.71  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.4980 pitch =116.39  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5110 pitch =116.39  roll =77.73  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5250 pitch =116.31  roll =77.72  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5380 pitch =116.28  roll =77.75  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5520 pitch =116.31  roll =77.73  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5660 pitch =116.30  roll =77.72  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5790 pitch =116.36  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.5930 pitch =116.34  roll =77.66  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6060 pitch =116.28  roll =77.62  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6200 pitch =116.32  roll =77.65  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6340 pitch =116.26  roll =77.66  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6470 pitch =116.28  roll =77.70  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6610 pitch =116.28  roll =77.65  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6740 pitch =116.28  roll =77.69  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.6880 pitch =116.32  roll =77.62  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7020 pitch =116.35  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7150 pitch =116.32  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7290 pitch =116.23  roll =77.67  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7430 pitch =116.22  roll =77.63  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7560 pitch =116.20  roll =77.67  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7690 pitch =116.19  roll =77.69  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7840 pitch =116.27  roll =77.70  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.7970 pitch =116.24  roll =77.74  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8100 pitch =116.29  roll =77.69  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8250 pitch =116.29  roll =77.66  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8380 pitch =116.23  roll =77.64  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8510 pitch =116.32  roll =77.70  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8660 pitch =116.33  roll =77.68  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8790 pitch =116.37  roll =77.66  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.8920 pitch =116.34  roll =77.65  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9050 pitch =116.33  roll =77.59  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9200 pitch =116.31  roll =77.56  gyrx =-3  gyry =0  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9330 pitch =116.33  roll =77.59  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9460 pitch =116.49  roll =77.62  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9610 pitch =116.45  roll =77.68  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9740 pitch =116.50  roll =77.66  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =4.9870 pitch =116.47  roll =77.59  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0020 pitch =116.45  roll =77.57  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0150 pitch =116.45  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0280 pitch =116.46  roll =77.60  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0420 pitch =116.48  roll =77.65  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0560 pitch =116.46  roll =77.69  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0690 pitch =116.50  roll =77.67  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0830 pitch =116.49  roll =77.66  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.0970 pitch =116.41  roll =77.63  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1100 pitch =116.36  roll =77.54  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1240 pitch =116.30  roll =77.59  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1380 pitch =116.38  roll =77.58  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1510 pitch =116.32  roll =77.56  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1650 pitch =116.33  roll =77.55  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1780 pitch =116.37  roll =77.53  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.1920 pitch =116.34  roll =77.63  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2060 pitch =116.38  roll =77.57  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2190 pitch =116.38  roll =77.60  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2330 pitch =116.38  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2460 pitch =116.38  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2600 pitch =116.41  roll =77.63  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2730 pitch =116.47  roll =77.60  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.2870 pitch =116.51  roll =77.61  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3010 pitch =116.45  roll =77.67  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3140 pitch =116.45  roll =77.63  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3280 pitch =116.42  roll =77.67  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3420 pitch =116.42  roll =77.67  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3550 pitch =116.48  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3690 pitch =116.40  roll =77.54  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3830 pitch =116.41  roll =77.61  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.3960 pitch =116.47  roll =77.60  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4090 pitch =116.47  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4240 pitch =116.49  roll =77.61  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4370 pitch =116.47  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4500 pitch =116.49  roll =77.67  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4650 pitch =116.46  roll =77.68  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4780 pitch =116.45  roll =77.61  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.4910 pitch =116.46  roll =77.62  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5060 pitch =116.46  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5190 pitch =116.48  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5320 pitch =116.48  roll =77.61  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5450 pitch =116.53  roll =77.64  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5600 pitch =116.53  roll =77.62  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5730 pitch =116.55  roll =77.62  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.5860 pitch =116.63  roll =77.57  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6010 pitch =116.55  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6140 pitch =116.50  roll =77.66  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6270 pitch =116.53  roll =77.64  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6420 pitch =116.57  roll =77.61  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6550 pitch =116.55  roll =77.55  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6680 pitch =116.52  roll =77.57  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6820 pitch =116.53  roll =77.58  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.6960 pitch =116.56  roll =77.59  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7090 pitch =116.55  roll =77.57  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7230 pitch =116.58  roll =77.58  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7370 pitch =116.54  roll =77.55  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7500 pitch =116.52  roll =77.51  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7640 pitch =116.50  roll =77.50  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7780 pitch =116.49  roll =77.53  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.7910 pitch =116.46  roll =77.54  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8050 pitch =116.52  roll =77.53  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8180 pitch =116.54  roll =77.57  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8320 pitch =116.51  roll =77.60  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8460 pitch =116.55  roll =77.61  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8590 pitch =116.57  roll =77.57  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8730 pitch =116.54  roll =77.57  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.8860 pitch =116.51  roll =77.63  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9000 pitch =116.51  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9140 pitch =116.47  roll =77.66  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9270 pitch =116.43  roll =77.63  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9410 pitch =116.42  roll =77.66  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9540 pitch =116.43  roll =77.68  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9680 pitch =116.43  roll =77.65  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9820 pitch =116.45  roll =77.63  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =5.9950 pitch =116.51  roll =77.60  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0090 pitch =116.53  roll =77.55  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0230 pitch =116.53  roll =77.59  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0360 pitch =116.51  roll =77.61  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0490 pitch =116.50  roll =77.60  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0640 pitch =116.50  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0770 pitch =116.52  roll =77.54  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.0900 pitch =116.58  roll =77.52  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1050 pitch =116.50  roll =77.50  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1180 pitch =116.50  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1310 pitch =116.56  roll =77.58  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1460 pitch =116.59  roll =77.60  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1590 pitch =116.58  roll =77.55  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1720 pitch =116.54  roll =77.53  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.1850 pitch =116.60  roll =77.57  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2000 pitch =116.60  roll =77.49  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2130 pitch =116.58  roll =77.51  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2260 pitch =116.57  roll =77.52  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2410 pitch =116.53  roll =77.51  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2540 pitch =116.57  roll =77.47  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2670 pitch =116.54  roll =77.45  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2820 pitch =116.52  roll =77.43  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.2950 pitch =116.50  roll =77.49  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3080 pitch =116.52  roll =77.48  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3220 pitch =116.49  roll =77.48  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3360 pitch =116.38  roll =77.56  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3490 pitch =116.38  roll =77.60  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3630 pitch =116.41  roll =77.61  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3770 pitch =116.41  roll =77.65  gyrx =-2  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.3900 pitch =116.47  roll =77.63  gyrx =-3  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4040 pitch =116.40  roll =77.66  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4180 pitch =116.42  roll =77.57  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4310 pitch =116.44  roll =77.58  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4450 pitch =116.42  roll =77.51  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4580 pitch =116.43  roll =77.55  gyrx =-2  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.4720 pitch =116.47  roll =77.57  gyrx =-3  gyry =0  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.05F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9070 pitch =116.65  roll =77.60  gyrx =-1  gyry =0  gyrz =-3  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9220 pitch =116.68  roll =77.56  gyrx =-1  gyry =0  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9350 pitch =116.65  roll =77.66  gyrx =-1  gyry =-1  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9480 pitch =116.67  roll =77.72  gyrx =-1  gyry =-1  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9630 pitch =116.67  roll =77.71  gyrx =-1  gyry =-1  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9760 pitch =116.71  roll =77.65  gyrx =-1  gyry =-1  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =6.9890 pitch =116.60  roll =77.72  gyrx =-1  gyry =-2  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0040 pitch =116.53  roll =77.84  gyrx =-1  gyry =-3  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0170 pitch =116.46  roll =77.93  gyrx =-1  gyry =-4  gyrz =-2  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0310 pitch =116.40  roll =77.87  gyrx =-2  gyry =-3  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0450 pitch =116.38  roll =77.91  gyrx =-2  gyry =-4  gyrz =-1  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0580 pitch =116.27  roll =77.93  gyrx =-2  gyry =-5  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0710 pitch =116.20  roll =77.83  gyrx =-2  gyry =-6  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0860 pitch =116.13  roll =77.89  gyrx =-1  gyry =-7  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.0990 pitch =116.02  roll =77.97  gyrx =-2  gyry =-9  gyrz =0  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1120 pitch =116.00  roll =78.17  gyrx =-3  gyry =-12  gyrz =1  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1260 pitch =116.03  roll =78.24  gyrx =-4  gyry =-15  gyrz =5  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1400 pitch =115.87  roll =78.03  gyrx =-4  gyry =-13  gyrz =6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1530 pitch =115.87  roll =77.42  gyrx =-4  gyry =-9  gyrz =2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1660 pitch =115.98  roll =77.09  gyrx =-4  gyry =-5  gyrz =-2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1800 pitch =115.88  roll =77.00  gyrx =-4  gyry =0  gyrz =-2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.1940 pitch =115.80  roll =77.13  gyrx =-2  gyry =-3  gyrz =-2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2070 pitch =115.62  roll =77.29  gyrx =-1  gyry =-7  gyrz =-1  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2210 pitch =115.31  roll =77.47  gyrx =-2  gyry =-8  gyrz =0  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2340 pitch =114.91  roll =77.70  gyrx =-3  gyry =-10  gyrz =-1  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2480 pitch =114.69  roll =77.46  gyrx =-5  gyry =-4  gyrz =-4  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2620 pitch =114.82  roll =77.54  gyrx =-7  gyry =1  gyrz =-13  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2750 pitch =115.29  roll =77.40  gyrx =-10  gyry =4  gyrz =-16  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.2890 pitch =115.70  roll =77.66  gyrx =-10  gyry =0  gyrz =-17  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3030 pitch =116.26  roll =78.31  gyrx =-13  gyry =-1  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3160 pitch =116.35  roll =79.47  gyrx =-13  gyry =-12  gyrz =-27  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3300 pitch =116.13  roll =80.73  gyrx =-10  gyry =-20  gyrz =-20  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3440 pitch =115.59  roll =82.33  gyrx =-5  gyry =-20  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3580 pitch =115.65  roll =83.97  gyrx =0  gyry =-9  gyrz =-21  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3710 pitch =115.98  roll =85.42  gyrx =4  gyry =-7  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3850 pitch =116.48  roll =86.19  gyrx =7  gyry =-3  gyrz =-26  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.3990 pitch =116.76  roll =86.28  gyrx =7  gyry =-3  gyrz =-23  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4120 pitch =116.98  roll =85.34  gyrx =1  gyry =-1  gyrz =-17  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4260 pitch =117.01  roll =83.43  gyrx =-1  gyry =0  gyrz =-10  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4390 pitch =116.36  roll =81.22  gyrx =-2  gyry =0  gyrz =-10  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4530 pitch =115.52  roll =79.23  gyrx =-3  gyry =0  gyrz =-16  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4670 pitch =114.32  roll =77.16  gyrx =-4  gyry =1  gyrz =-22  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4800 pitch =113.29  roll =75.76  gyrx =-6  gyry =2  gyrz =-25  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.4940 pitch =112.33  roll =74.71  gyrx =-8  gyry =6  gyrz =-25  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5070 pitch =111.59  roll =73.93  gyrx =-9  gyry =9  gyrz =-22  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5210 pitch =110.95  roll =72.97  gyrx =-12  gyry =11  gyrz =-17  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5350 pitch =110.74  roll =72.94  gyrx =-11  gyry =11  gyrz =-14  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5480 pitch =111.58  roll =74.36  gyrx =-8  gyry =16  gyrz =-18  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5620 pitch =112.27  roll =76.57  gyrx =-14  gyry =13  gyrz =-23  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5760 pitch =112.44  roll =78.11  gyrx =-20  gyry =10  gyrz =-12  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.5890 pitch =112.91  roll =78.50  gyrx =-22  gyry =5  gyrz =10  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.6040 pitch =113.43  roll =77.91  gyrx =-24  gyry =6  gyrz =22  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.6170 pitch =113.83  roll =76.95  gyrx =-21  gyry =12  gyrz =11  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.6300 pitch =114.54  roll =75.91  gyrx =-17  gyry =22  gyrz =1  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =7.6440 pitch =115.78  roll =74.86  gyrx =-14  gyry =30  gyrz =-8  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.00
+
+time =7.6580 pitch =117.20  roll =74.25  gyrx =-11  gyry =32  gyrz =-20  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.00
+
+time =7.6710 pitch =118.34  roll =74.83  gyrx =-12  gyry =31  gyrz =-23  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.00
+
+time =7.6860 pitch =118.47  roll =75.27  gyrx =-14  gyry =29  gyrz =-8  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =7.6990 pitch =118.34  roll =75.44  gyrx =-12  gyry =23  gyrz =0  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =7.7120 pitch =117.93  roll =75.53  gyrx =-15  gyry =26  gyrz =4  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.00
+
+time =7.7270 pitch =117.47  roll =75.80  gyrx =-18  gyry =31  gyrz =-7  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.00
+
+time =7.7400 pitch =117.50  roll =75.36  gyrx =-16  gyry =37  gyrz =-19  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.10  G2 =0.00  G3 =0.00
+
+time =7.7530 pitch =118.01  roll =75.10  gyrx =-13  gyry =41  gyrz =-23  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.7680 pitch =119.21  roll =75.80  gyrx =-16  gyry =40  gyrz =-14  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.7810 pitch =119.73  roll =75.88  gyrx =-18  gyry =32  gyrz =-8  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.7950 pitch =119.96  roll =75.22  gyrx =-17  gyry =22  gyrz =-13  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.8090 pitch =120.39  roll =75.14  gyrx =-16  gyry =25  gyrz =-9  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.8220 pitch =121.56  roll =73.34  gyrx =-17  gyry =31  gyrz =-8  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.8360 pitch =122.78  roll =72.87  gyrx =-9  gyry =41  gyrz =2  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.8490 pitch =124.14  roll =73.35  gyrx =-2  gyry =29  gyrz =-8  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =7.8630 pitch =124.90  roll =73.64  gyrx =0  gyry =16  gyrz =-10  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.69
+
+time =7.8770 pitch =125.76  roll =72.06  gyrx =6  gyry =5  gyrz =6  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.16
+
+time =7.8900 pitch =126.58  roll =72.33  gyrx =14  gyry =-4  gyrz =1  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.75
+
+time =7.9040 pitch =126.32  roll =73.74  gyrx =17  gyry =-7  gyrz =7  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.24
+
+time =7.9170 pitch =126.27  roll =74.28  gyrx =20  gyry =-13  gyrz =3  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.43
+
+time =7.9300 pitch =125.59  roll =77.10  gyrx =19  gyry =-18  gyrz =2  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.53
+
+time =7.9450 pitch =125.41  roll =76.59  gyrx =16  gyry =-23  gyrz =14  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.24
+
+time =7.9580 pitch =124.92  roll =74.49  gyrx =16  gyry =-23  gyrz =9  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.04
+
+time =7.9710 pitch =124.62  roll =76.35  gyrx =23  gyry =-24  gyrz =10  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.84
+
+time =7.9860 pitch =124.44  roll =76.54  gyrx =25  gyry =-29  gyrz =9  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.55
+
+time =7.9990 pitch =124.81  roll =76.21  gyrx =30  gyry =-34  gyrz =0  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.26
+
+time =8.0120 pitch =124.91  roll =75.94  gyrx =31  gyry =-39  gyrz =-10  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.96
+
+time =8.0260 pitch =123.42  roll =77.00  gyrx =30  gyry =-36  gyrz =-20  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.77
+
+time =8.0400 pitch =122.09  roll =80.30  gyrx =23  gyry =-33  gyrz =-2  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.37
+
+time =8.0530 pitch =121.07  roll =81.03  gyrx =15  gyry =-22  gyrz =3  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.18
+
+time =8.0680 pitch =120.26  roll =83.98  gyrx =6  gyry =-14  gyrz =9  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.37
+
+time =8.0810 pitch =118.56  roll =80.99  gyrx =-1  gyry =-20  gyrz =-11  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.47
+
+time =8.0940 pitch =118.63  roll =79.69  gyrx =0  gyry =-4  gyrz =-6  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.67
+
+time =8.1080 pitch =118.49  roll =80.46  gyrx =-2  gyry =-10  gyrz =-10  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.96
+
+time =8.1220 pitch =118.93  roll =80.05  gyrx =-5  gyry =-11  gyrz =-12  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.75
+
+time =8.1350 pitch =118.53  roll =80.92  gyrx =-7  gyry =-12  gyrz =-6  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.14
+
+time =8.1500 pitch =118.70  roll =78.98  gyrx =-6  gyry =-8  gyrz =-15  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.34
+
+time =8.1630 pitch =118.79  roll =80.16  gyrx =-5  gyry =0  gyrz =3  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.63
+
+time =8.1760 pitch =118.36  roll =83.07  gyrx =-2  gyry =2  gyrz =9  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =4.32
+
+time =8.1890 pitch =117.99  roll =83.70  gyrx =0  gyry =-9  gyrz =-12  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =4.51
+
+time =8.2040 pitch =118.09  roll =82.69  gyrx =3  gyry =-4  gyrz =-3  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =4.91
+
+time =8.2170 pitch =118.42  roll =81.84  gyrx =8  gyry =-2  gyrz =-6  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =5.30
+
+time =8.2300 pitch =118.41  roll =81.73  gyrx =10  gyry =-5  gyrz =-11  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =5.69
+
+time =8.2440 pitch =118.28  roll =81.86  gyrx =9  gyry =-6  gyrz =-11  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =6.77
+
+time =8.2580 pitch =118.17  roll =81.58  gyrx =10  gyry =-2  gyrz =-11  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =7.26
+
+time =8.2710 pitch =117.82  roll =81.96  gyrx =9  gyry =-4  gyrz =-18  F1 =4  F2 =1  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =7.75
+
+time =8.2850 pitch =117.53  roll =83.41  gyrx =4  gyry =-3  gyrz =-3  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =8.34
+
+time =8.2980 pitch =117.42  roll =83.63  gyrx =1  gyry =-3  gyrz =-7  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =9.42
+
+time =8.3120 pitch =117.58  roll =83.11  gyrx =2  gyry =0  gyrz =-4  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =9.81
+
+time =8.3260 pitch =117.83  roll =82.84  gyrx =5  gyry =0  gyrz =-8  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =10.30
+
+time =8.3390 pitch =117.86  roll =82.74  gyrx =7  gyry =-1  gyrz =-6  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =10.89
+
+time =8.3530 pitch =118.08  roll =81.44  gyrx =12  gyry =2  gyrz =-3  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =11.38
+
+time =8.3670 pitch =118.56  roll =81.21  gyrx =21  gyry =0  gyrz =-14  F1 =5  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.54
+
+time =8.3810 pitch =118.21  roll =82.45  gyrx =18  gyry =-10  gyrz =-23  F1 =5  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.30
+
+time =8.3940 pitch =117.59  roll =83.68  gyrx =14  gyry =-16  gyrz =-12  F1 =5  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.17
+
+time =8.4090 pitch =117.25  roll =83.39  gyrx =12  gyry =-12  gyrz =-6  F1 =5  F2 =2  F3 =2  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =19.03
+
+time =8.4230 pitch =117.19  roll =84.15  gyrx =13  gyry =-15  gyrz =-11  F1 =5  F2 =2  F3 =2  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.35
+
+time =8.4370 pitch =116.90  roll =84.92  gyrx =10  gyry =-16  gyrz =-5  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =25.51
+
+time =8.4510 pitch =116.38  roll =85.21  gyrx =8  gyry =-17  gyrz =-2  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =27.17
+
+time =8.4650 pitch =115.90  roll =85.22  gyrx =8  gyry =-18  gyrz =0  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =29.53
+
+time =8.4790 pitch =115.65  roll =85.65  gyrx =7  gyry =-19  gyrz =4  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =30.31
+
+time =8.4930 pitch =115.65  roll =86.12  gyrx =4  gyry =-13  gyrz =8  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =30.80
+
+time =8.5070 pitch =115.50  roll =86.15  gyrx =2  gyry =-18  gyrz =13  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =31.20
+
+time =8.5210 pitch =115.62  roll =86.37  gyrx =0  gyry =-10  gyrz =10  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =31.39
+
+time =8.5350 pitch =115.81  roll =86.57  gyrx =-5  gyry =-9  gyrz =9  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =31.10
+
+time =8.5490 pitch =115.72  roll =86.34  gyrx =-7  gyry =-15  gyrz =11  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =30.71
+
+time =8.5630 pitch =115.40  roll =85.91  gyrx =-8  gyry =-14  gyrz =9  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =30.12
+
+time =8.5780 pitch =115.02  roll =85.58  gyrx =-9  gyry =-15  gyrz =6  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =28.94
+
+time =8.5910 pitch =114.78  roll =85.40  gyrx =-9  gyry =-17  gyrz =2  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =28.15
+
+time =8.6050 pitch =114.40  roll =85.11  gyrx =-10  gyry =-20  gyrz =4  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =27.27
+
+time =8.6200 pitch =114.08  roll =84.85  gyrx =-11  gyry =-15  gyrz =7  F1 =5  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =26.09
+
+time =8.6330 pitch =114.03  roll =84.37  gyrx =-9  gyry =-12  gyrz =6  F1 =4  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =22.86
+
+time =8.6470 pitch =113.88  roll =83.78  gyrx =-6  gyry =-17  gyrz =8  F1 =4  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.39
+
+time =8.6620 pitch =113.64  roll =83.17  gyrx =0  gyry =-22  gyrz =0  F1 =4  F2 =2  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =19.91
+
+time =8.6750 pitch =113.07  roll =82.82  gyrx =6  gyry =-30  gyrz =-2  F1 =3  F2 =1  F3 =1  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =18.54
+
+time =8.6890 pitch =112.60  roll =82.85  gyrx =15  gyry =-41  gyrz =-6  F1 =3  F2 =1  F3 =1  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =15.70
+
+time =8.7040 pitch =112.38  roll =83.14  gyrx =12  gyry =-16  gyrz =-18  F1 =2  F2 =1  F3 =1  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.83
+
+time =8.7180 pitch =111.53  roll =83.53  gyrx =14  gyry =-9  gyrz =-20  F1 =2  F2 =1  F3 =1  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.48
+
+time =8.7310 pitch =111.70  roll =84.23  gyrx =15  gyry =-1  gyrz =-20  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =6.57
+
+time =8.7450 pitch =110.91  roll =85.32  gyrx =8  gyry =7  gyrz =-15  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =4.51
+
+time =8.7600 pitch =110.63  roll =86.23  gyrx =6  gyry =9  gyrz =-6  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.14
+
+time =8.7730 pitch =110.48  roll =87.86  gyrx =4  gyry =4  gyrz =2  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.35
+
+time =8.7860 pitch =110.80  roll =88.77  gyrx =-9  gyry =4  gyrz =18  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.77
+
+time =8.8000 pitch =111.03  roll =87.84  gyrx =-25  gyry =18  gyrz =53  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.69
+
+time =8.8130 pitch =111.79  roll =85.41  gyrx =-28  gyry =26  gyrz =72  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8270 pitch =114.72  roll =80.52  gyrx =-30  gyry =0  gyrz =82  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8410 pitch =115.76  roll =76.15  gyrx =-21  gyry =-8  gyrz =65  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8540 pitch =117.33  roll =77.25  gyrx =-11  gyry =-25  gyrz =17  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8670 pitch =115.75  roll =74.40  gyrx =-8  gyry =-39  gyrz =9  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8810 pitch =113.68  roll =72.97  gyrx =-8  gyry =-53  gyrz =4  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.8950 pitch =112.75  roll =74.19  gyrx =2  gyry =-53  gyrz =-10  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.9080 pitch =113.40  roll =69.04  gyrx =12  gyry =-63  gyrz =1  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.9220 pitch =121.53  roll =83.69  gyrx =21  gyry =27  gyrz =48  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.9360 pitch =120.37  roll =80.27  gyrx =49  gyry =46  gyrz =-117  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =8.9490 pitch =116.91  roll =83.29  gyrx =54  gyry =57  gyrz =-131  F1 =0  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.00
+
+time =8.9640 pitch =118.94  roll =92.04  gyrx =76  gyry =70  gyrz =35  F1 =1  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.49  G2 =0.00  G3 =0.00
+
+time =8.9770 pitch =119.18  roll =98.48  gyrx =-115  gyry =-41  gyrz =-125  F1 =2  F2 =1  F3 =0  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.49  G2 =0.00  G3 =0.10
+
+time =8.9910 pitch =128.38  roll =110.69  gyrx =-28  gyry =-84  gyrz =-64  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.49
+
+time =9.0060 pitch =124.31  roll =96.53  gyrx =-18  gyry =-25  gyrz =-32  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.29
+
+time =9.0190 pitch =120.31  roll =92.86  gyrx =-13  gyry =35  gyrz =73  F1 =2  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.29
+
+time =9.0330 pitch =117.41  roll =90.60  gyrx =-28  gyry =54  gyrz =55  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.59
+
+time =9.0470 pitch =118.02  roll =87.97  gyrx =-14  gyry =40  gyrz =28  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.69
+
+time =9.0610 pitch =119.01  roll =85.75  gyrx =-10  gyry =35  gyrz =9  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.88
+
+time =9.0750 pitch =117.18  roll =78.99  gyrx =1  gyry =16  gyrz =-27  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.18
+
+time =9.0890 pitch =115.68  roll =79.65  gyrx =2  gyry =13  gyrz =-1  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.28
+
+time =9.1030 pitch =116.71  roll =81.14  gyrx =-11  gyry =12  gyrz =44  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.18
+
+time =9.1160 pitch =116.17  roll =80.41  gyrx =-2  gyry =-6  gyrz =-7  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.98
+
+time =9.1310 pitch =115.24  roll =81.03  gyrx =-2  gyry =-14  gyrz =-24  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.78
+
+time =9.1440 pitch =112.93  roll =80.90  gyrx =-7  gyry =0  gyrz =-26  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.20
+
+time =9.1580 pitch =113.21  roll =83.15  gyrx =-5  gyry =1  gyrz =-20  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.1710 pitch =114.83  roll =86.47  gyrx =-4  gyry =12  gyrz =22  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.1860 pitch =114.53  roll =86.06  gyrx =-11  gyry =24  gyrz =9  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.1990 pitch =114.57  roll =85.78  gyrx =-10  gyry =19  gyrz =-3  F1 =3  F2 =2  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2130 pitch =115.01  roll =85.57  gyrx =-10  gyry =11  gyrz =3  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2270 pitch =115.48  roll =85.09  gyrx =-10  gyry =6  gyrz =2  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2410 pitch =117.20  roll =80.90  gyrx =-11  gyry =-3  gyrz =19  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2540 pitch =116.54  roll =80.90  gyrx =-7  gyry =-2  gyrz =-2  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2690 pitch =115.96  roll =81.28  gyrx =-7  gyry =0  gyrz =-17  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2820 pitch =116.71  roll =86.40  gyrx =-7  gyry =6  gyrz =-5  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.2960 pitch =116.30  roll =86.79  gyrx =-2  gyry =-1  gyrz =-64  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3100 pitch =117.32  roll =81.40  gyrx =-5  gyry =-5  gyrz =-22  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3240 pitch =116.53  roll =87.42  gyrx =-11  gyry =19  gyrz =28  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3370 pitch =116.63  roll =86.50  gyrx =-8  gyry =5  gyrz =5  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3520 pitch =116.53  roll =85.25  gyrx =-3  gyry =2  gyrz =-8  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3650 pitch =116.35  roll =83.98  gyrx =-4  gyry =0  gyrz =18  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3790 pitch =115.84  roll =81.82  gyrx =0  gyry =-5  gyrz =-8  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.3930 pitch =114.71  roll =81.36  gyrx =-4  gyry =4  gyrz =1  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4060 pitch =114.95  roll =81.65  gyrx =-3  gyry =0  gyrz =-6  F1 =3  F2 =2  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4200 pitch =115.06  roll =80.82  gyrx =-4  gyry =1  gyrz =-15  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4340 pitch =114.72  roll =79.92  gyrx =-4  gyry =-2  gyrz =-23  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4480 pitch =114.66  roll =84.11  gyrx =-4  gyry =-2  gyrz =-7  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4610 pitch =113.87  roll =85.00  gyrx =-3  gyry =-1  gyrz =-14  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4760 pitch =113.92  roll =88.24  gyrx =-5  gyry =-2  gyrz =-7  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.4890 pitch =115.25  roll =86.19  gyrx =-10  gyry =0  gyrz =27  F1 =3  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5030 pitch =114.65  roll =85.63  gyrx =-6  gyry =1  gyrz =6  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5170 pitch =114.73  roll =79.72  gyrx =0  gyry =-8  gyrz =-54  F1 =4  F2 =1  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5310 pitch =115.06  roll =79.92  gyrx =-8  gyry =7  gyrz =3  F1 =4  F2 =2  F3 =1  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5440 pitch =114.76  roll =81.37  gyrx =-6  gyry =9  gyrz =2  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5580 pitch =114.60  roll =85.08  gyrx =-5  gyry =14  gyrz =-11  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5720 pitch =114.18  roll =81.62  gyrx =-3  gyry =9  gyrz =-32  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.5860 pitch =113.92  roll =85.02  gyrx =-11  gyry =22  gyrz =10  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.6000 pitch =113.90  roll =84.48  gyrx =-10  gyry =12  gyrz =8  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =9.6140 pitch =111.05  roll =90.95  gyrx =-9  gyry =26  gyrz =-4  F1 =4  F2 =2  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  1=2  F4 =1  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =-2180.37  G3 =8.73
+
+  roll =85.44  gyrx =-6  gyry =1  gyrz =0  F1 =5  F2 =3  F3 =2  F4 =1  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =-2180.37  G3 =8.73
+
+time =10.0470 pitch =117.10  roll =84.86  gyrx =-5  gyry =1  gyrz =0  F1 =5  F2 =3  F3 =2  F4 =1  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =8.34
+
+time =10.0600 pitch =117.30  roll =84.45  gyrx =0  gyry =0  gyrz =-5  F1 =5  F2 =3  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.04
+
+time =10.0750 pitch =117.39  roll =84.53  gyrx =0  gyry =-1  gyrz =-5  F1 =5  F2 =3  F3 =2  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.04
+
+time =10.0880 pitch =117.43  roll =84.41  gyrx =-1  gyry =-1  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.53
+
+time =10.1020 pitch =117.44  roll =84.75  gyrx =0  gyry =0  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.73
+
+time =10.1160 pitch =117.41  roll =84.79  gyrx =0  gyry =-2  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.93
+
+time =10.1300 pitch =117.38  roll =84.73  gyrx =0  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.22
+
+time =10.1430 pitch =117.30  roll =84.69  gyrx =0  gyry =2  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.01
+
+time =10.1580 pitch =117.28  roll =85.05  gyrx =0  gyry =2  gyrz =-4  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.50
+
+time =10.1720 pitch =117.58  roll =84.19  gyrx =2  gyry =0  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.99
+
+time =10.1850 pitch =117.51  roll =84.37  gyrx =5  gyry =-2  gyrz =-14  F1 =5  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.58
+
+time =10.2000 pitch =117.57  roll =84.70  gyrx =3  gyry =-1  gyrz =-3  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.24
+
+time =10.2140 pitch =117.55  roll =84.71  gyrx =2  gyry =0  gyrz =-1  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.03
+
+time =10.2270 pitch =117.62  roll =84.61  gyrx =3  gyry =1  gyrz =-6  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.52
+
+time =10.2420 pitch =117.78  roll =84.84  gyrx =2  gyry =0  gyrz =-5  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =15.79
+
+time =10.2550 pitch =117.81  roll =84.97  gyrx =1  gyry =0  gyrz =1  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =16.28
+
+time =10.2690 pitch =117.66  roll =84.90  gyrx =1  gyry =0  gyrz =0  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =16.87
+
+time =10.2840 pitch =117.69  roll =84.96  gyrx =0  gyry =1  gyrz =-3  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =17.36
+
+time =10.2970 pitch =117.83  roll =84.96  gyrx =0  gyry =2  gyrz =-1  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.25
+
+time =10.3110 pitch =118.02  roll =84.83  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.54
+
+time =10.3240 pitch =118.02  roll =84.96  gyrx =-1  gyry =0  gyrz =-4  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =10.3390 pitch =117.91  roll =84.98  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.03
+
+time =10.3530 pitch =117.89  roll =85.00  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.42
+
+time =10.3680 pitch =117.94  roll =84.99  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =3  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.42
+
+time =10.3810 pitch =117.96  roll =84.98  gyrx =0  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.42
+
+time =10.3950 pitch =117.92  roll =85.03  gyrx =0  gyry =-2  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.33
+
+time =10.4090 pitch =117.89  roll =85.10  gyrx =0  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.23
+
+time =10.4230 pitch =117.75  roll =85.19  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.23
+
+time =10.4370 pitch =117.76  roll =85.19  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.23
+
+time =10.4510 pitch =117.78  roll =85.25  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =19.13
+
+time =10.4650 pitch =117.83  roll =85.24  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.93
+
+time =10.4790 pitch =117.91  roll =85.20  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =10.4930 pitch =117.87  roll =85.17  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.74
+
+time =10.5070 pitch =117.88  roll =85.20  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.54
+
+time =10.5210 pitch =117.85  roll =85.20  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =18.15
+
+time =10.5350 pitch =117.78  roll =85.26  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =17.95
+
+time =10.5490 pitch =117.81  roll =85.23  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =17.85
+
+time =10.5630 pitch =117.85  roll =85.21  gyrx =-4  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =17.27
+
+time =10.5770 pitch =117.91  roll =85.17  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =16.97
+
+time =10.5910 pitch =117.96  roll =85.21  gyrx =-5  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =16.58
+
+time =10.6050 pitch =117.94  roll =85.20  gyrx =-5  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =16.28
+
+time =10.6190 pitch =117.93  roll =85.07  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =15.60
+
+time =10.6330 pitch =117.78  roll =85.01  gyrx =-3  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =15.30
+
+time =10.6470 pitch =117.82  roll =84.96  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =15.01
+
+time =10.6610 pitch =117.86  roll =84.95  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.81
+
+time =10.6750 pitch =117.90  roll =84.85  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.62
+
+time =10.6890 pitch =118.00  roll =84.84  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.42
+
+time =10.7030 pitch =117.91  roll =84.87  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =14.13
+
+time =10.7170 pitch =117.84  roll =84.82  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.83
+
+time =10.7310 pitch =117.75  roll =84.86  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.54
+
+time =10.7450 pitch =117.79  roll =84.74  gyrx =-4  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.44
+
+time =10.7600 pitch =117.83  roll =84.71  gyrx =-4  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =10.7730 pitch =117.84  roll =84.72  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.15
+
+time =10.7870 pitch =117.87  roll =84.71  gyrx =-2  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =10.8020 pitch =117.89  roll =84.65  gyrx =-2  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.56
+
+time =10.8160 pitch =117.83  roll =84.62  gyrx =-2  gyry =-1  gyrz =-3  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.46
+
+time =10.8290 pitch =117.88  roll =84.66  gyrx =-2  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.26
+
+time =10.8440 pitch =117.90  roll =84.65  gyrx =-2  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.16
+
+time =10.8580 pitch =117.91  roll =84.73  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.07
+
+time =10.8720 pitch =117.91  roll =84.73  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.97
+
+time =10.8860 pitch =117.86  roll =84.63  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.77
+
+time =10.9000 pitch =117.83  roll =84.61  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.67
+
+time =10.9140 pitch =117.70  roll =84.69  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.67
+
+time =10.9280 pitch =117.80  roll =84.64  gyrx =-3  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.77
+
+time =10.9420 pitch =117.84  roll =84.66  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.87
+
+time =10.9560 pitch =117.93  roll =84.64  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.67
+
+time =10.9700 pitch =117.84  roll =84.62  gyrx =-2  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.67
+
+time =10.9840 pitch =117.75  roll =84.58  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.67
+
+time =10.9980 pitch =117.67  roll =84.59  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.87
+
+time =11.0130 pitch =117.71  roll =84.65  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.97
+
+time =11.0260 pitch =117.76  roll =84.67  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.97
+
+time =11.0400 pitch =117.77  roll =84.74  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.07
+
+time =11.0550 pitch =117.74  roll =84.71  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.16
+
+time =11.0680 pitch =117.79  roll =84.68  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.26
+
+time =11.0820 pitch =117.82  roll =84.75  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.36
+
+time =11.0970 pitch =117.79  roll =84.73  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =11.1100 pitch =117.86  roll =84.70  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.75
+
+time =11.1240 pitch =117.82  roll =84.74  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.95
+
+time =11.1390 pitch =117.83  roll =84.74  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.05
+
+time =11.1530 pitch =117.91  roll =84.75  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.15
+
+time =11.1660 pitch =117.90  roll =84.75  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.24
+
+time =11.1810 pitch =117.92  roll =84.73  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =11.1950 pitch =117.87  roll =84.72  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =11.2080 pitch =117.88  roll =84.75  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =11.2230 pitch =117.85  roll =84.70  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.24
+
+time =11.2370 pitch =117.86  roll =84.76  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.24
+
+time =11.2500 pitch =117.82  roll =84.84  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =11.2650 pitch =117.86  roll =84.77  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.15
+
+time =11.2790 pitch =117.85  roll =84.74  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.15
+
+time =11.2930 pitch =117.93  roll =84.64  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =13.05
+
+time =11.3070 pitch =118.02  roll =84.69  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.95
+
+time =11.3210 pitch =118.00  roll =84.72  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.95
+
+time =11.3350 pitch =118.01  roll =84.72  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.85
+
+time =11.3480 pitch =117.97  roll =84.78  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.85
+
+time =11.3630 pitch =118.02  roll =84.86  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.75
+
+time =11.3770 pitch =118.06  roll =84.88  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.46
+
+time =11.3900 pitch =118.09  roll =84.86  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.26
+
+time =11.4050 pitch =118.12  roll =84.82  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.97
+
+time =11.4180 pitch =118.13  roll =84.82  gyrx =-4  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =11.38
+
+time =11.4320 pitch =118.06  roll =84.71  gyrx =-4  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.99
+
+time =11.4470 pitch =118.19  roll =84.60  gyrx =-6  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.69
+
+time =11.4600 pitch =118.17  roll =84.53  gyrx =-5  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =10.30
+
+time =11.4740 pitch =118.08  roll =84.30  gyrx =-1  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.32
+
+time =11.4880 pitch =118.03  roll =84.32  gyrx =0  gyry =-1  gyrz =-5  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.12
+
+time =11.5020 pitch =117.97  roll =84.60  gyrx =0  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.03
+
+time =11.5150 pitch =118.04  roll =84.51  gyrx =-2  gyry =0  gyrz =1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.03
+
+time =11.5300 pitch =118.05  roll =84.54  gyrx =-1  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.03
+
+time =11.5430 pitch =118.07  roll =84.61  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.93
+
+time =11.5570 pitch =117.96  roll =84.61  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.03
+
+time =11.5710 pitch =117.96  roll =84.64  gyrx =-3  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.22
+
+time =11.5850 pitch =117.92  roll =84.59  gyrx =-4  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.22
+
+time =11.5980 pitch =117.97  roll =84.63  gyrx =-4  gyry =2  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.22
+
+time =11.6130 pitch =117.98  roll =84.76  gyrx =-4  gyry =2  gyrz =-2  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.22
+
+time =11.6270 pitch =118.04  roll =84.56  gyrx =-6  gyry =4  gyrz =-5  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =9.32
+
+time =11.6400 pitch =118.52  roll =84.73  gyrx =-5  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.93
+
+time =11.6540 pitch =118.65  roll =84.77  gyrx =-8  gyry =1  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.63
+
+time =11.6680 pitch =117.34  roll =84.68  gyrx =-9  gyry =1  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =8.14
+
+time =11.6810 pitch =118.31  roll =84.86  gyrx =-7  gyry =-1  gyrz =4  F1 =5  F2 =3  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =7.36
+
+time =11.6960 pitch =119.14  roll =84.77  gyrx =-6  gyry =0  gyrz =5  F1 =5  F2 =3  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =5.89
+
+time =11.7090 pitch =118.96  roll =85.04  gyrx =-4  gyry =0  gyrz =5  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =5.10
+
+time =11.7230 pitch =118.63  roll =84.56  gyrx =-4  gyry =0  gyrz =5  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =4.41
+
+time =11.7370 pitch =118.69  roll =84.54  gyrx =-5  gyry =-1  gyrz =6  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.73
+
+time =11.7510 pitch =118.75  roll =84.43  gyrx =-6  gyry =0  gyrz =6  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =3.14
+
+time =11.7640 pitch =118.18  roll =83.90  gyrx =-5  gyry =1  gyrz =3  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.96
+
+time =11.7780 pitch =118.97  roll =83.81  gyrx =-4  gyry =0  gyrz =7  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.37
+
+time =11.7920 pitch =118.00  roll =83.69  gyrx =-6  gyry =2  gyrz =5  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.98
+
+time =11.8050 pitch =117.99  roll =83.82  gyrx =-7  gyry =4  gyrz =3  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.69
+
+time =11.8190 pitch =117.81  roll =83.98  gyrx =-7  gyry =7  gyrz =4  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.20
+
+time =11.8330 pitch =117.69  roll =83.91  gyrx =-7  gyry =10  gyrz =5  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.10
+
+time =11.8460 pitch =118.07  roll =83.82  gyrx =-7  gyry =11  gyrz =8  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =11.8600 pitch =118.28  roll =83.91  gyrx =-4  gyry =13  gyrz =7  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =11.8740 pitch =118.50  roll =83.54  gyrx =-1  gyry =13  gyrz =7  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.49
+
+time =11.8870 pitch =118.90  roll =83.34  gyrx =2  gyry =15  gyrz =8  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.78
+
+time =11.9010 pitch =118.99  roll =83.73  gyrx =2  gyry =15  gyrz =0  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =1.47
+
+time =11.9150 pitch =118.91  roll =83.42  gyrx =1  gyry =23  gyrz =3  F1 =5  F2 =3  F3 =2  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =2.55
+
+time =11.9290 pitch =118.90  roll =84.17  gyrx =0  gyry =23  gyrz =6  F1 =5  F2 =3  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =5.40
+
+time =11.9420 pitch =119.17  roll =84.45  gyrx =0  gyry =20  gyrz =10  F1 =5  F2 =3  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =7.16
+
+time =11.9570 pitch =119.31  roll =84.84  gyrx =0  gyry =22  gyrz =11  F1 =6  F2 =3  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =8.93
+
+time =11.9700 pitch =120.12  roll =84.48  gyrx =4  gyry =20  gyrz =9  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =10.59
+
+time =11.9840 pitch =120.43  roll =84.47  gyrx =6  gyry =21  gyrz =11  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =12.36
+
+time =11.9980 pitch =120.93  roll =84.00  gyrx =6  gyry =12  gyrz =7  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =16.48
+
+time =12.0120 pitch =118.26  roll =84.30  gyrx =0  gyry =37  gyrz =-9  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =18.64
+
+time =12.0250 pitch =118.92  roll =83.81  gyrx =-3  gyry =13  gyrz =3  F1 =6  F2 =4  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =12.0400 pitch =119.39  roll =83.43  gyrx =-8  gyry =9  gyrz =-7  F1 =6  F2 =4  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =12.0530 pitch =119.93  roll =83.41  gyrx =-11  gyry =5  gyrz =-7  F1 =6  F2 =4  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =27.66
+
+time =12.0670 pitch =120.20  roll =83.18  gyrx =-13  gyry =5  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =29.33
+
+time =12.0820 pitch =119.68  roll =83.23  gyrx =-16  gyry =9  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =30.61
+
+time =12.0950 pitch =119.82  roll =82.79  gyrx =-14  gyry =11  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =31.88
+
+time =12.1090 pitch =120.53  roll =82.66  gyrx =-12  gyry =7  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =32.08
+
+time =12.1240 pitch =121.62  roll =81.47  gyrx =-12  gyry =5  gyrz =-5  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =32.18
+
+time =12.1370 pitch =122.06  roll =82.17  gyrx =-10  gyry =3  gyrz =0  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =32.08
+
+time =12.1510 pitch =122.44  roll =81.65  gyrx =-7  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =31.29
+
+time =12.1660 pitch =122.75  roll =82.24  gyrx =-3  gyry =-4  gyrz =-6  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =30.41
+
+time =12.1790 pitch =123.00  roll =82.26  gyrx =-4  gyry =-8  gyrz =-7  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =29.53
+
+time =12.1930 pitch =122.92  roll =81.82  gyrx =-2  gyry =-10  gyrz =-7  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.15
+
+time =12.2080 pitch =122.86  roll =81.21  gyrx =3  gyry =-11  gyrz =-9  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.41
+
+time =12.2210 pitch =122.53  roll =81.23  gyrx =7  gyry =-10  gyrz =-9  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.92
+
+time =12.2350 pitch =122.90  roll =80.24  gyrx =10  gyry =-14  gyrz =-10  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.31
+
+time =12.2500 pitch =122.48  roll =81.76  gyrx =9  gyry =-8  gyrz =-5  F1 =6  F2 =4  F3 =3  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.19
+
+time =12.2640 pitch =121.92  roll =82.42  gyrx =9  gyry =-9  gyrz =-8  F1 =6  F2 =4  F3 =4  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.74
+
+time =12.2770 pitch =122.50  roll =81.50  gyrx =10  gyry =-17  gyrz =-14  F1 =6  F2 =4  F3 =4  F4 =0  F5 =0  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =30.31
+
+time =12.2920 pitch =123.07  roll =80.96  gyrx =14  gyry =-22  gyrz =-15  F1 =6  F2 =4  F3 =4  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =31.69
+
+time =12.3060 pitch =123.35  roll =80.94  gyrx =21  gyry =-29  gyrz =-16  F1 =6  F2 =4  F3 =4  F4 =0  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =32.67
+
+time =12.3200 pitch =123.23  roll =81.37  gyrx =29  gyry =-39  gyrz =-18  F1 =6  F2 =5  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =33.45
+
+time =12.3340 pitch =121.83  roll =82.90  gyrx =23  gyry =-27  gyrz =-17  F1 =6  F2 =5  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =33.35
+
+time =12.3480 pitch =120.93  roll =83.17  gyrx =22  gyry =-23  gyrz =-16  F1 =6  F2 =5  F3 =4  F4 =1  F5 =0  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =33.55
+
+time =12.3620 pitch =120.42  roll =83.18  gyrx =27  gyry =-23  gyrz =-20  F1 =6  F2 =5  F3 =4  F4 =1  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =35.81
+
+time =12.3770 pitch =120.05  roll =83.67  gyrx =29  gyry =-26  gyrz =-23  F1 =6  F2 =6  F3 =4  F4 =2  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =37.67
+
+time =12.3910 pitch =118.93  roll =84.19  gyrx =33  gyry =-27  gyrz =-27  F1 =5  F2 =6  F3 =4  F4 =2  F5 =0  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =39.63
+
+time =12.4050 pitch =118.15  roll =84.45  gyrx =44  gyry =-27  gyrz =-31  F1 =6  F2 =7  F3 =4  F4 =2  F5 =0  F6 =3  F7 =0  G1 =0.00  G2 =0.00  G3 =41.89
+
+time =12.4200 pitch =117.22  roll =85.06  gyrx =55  gyry =-33  gyrz =-35  F1 =6  F2 =7  F3 =4  F4 =2  F5 =0  F6 =4  F7 =0  G1 =0.00  G2 =0.00  G3 =48.46
+
+time =12.4340 pitch =117.41  roll =86.51  gyrx =64  gyry =-44  gyrz =-35  F1 =6  F2 =7  F3 =5  F4 =2  F5 =0  F6 =5  F7 =1  G1 =0.00  G2 =0.00  G3 =51.80
+
+time =12.4480 pitch =116.15  roll =88.15  gyrx =65  gyry =-31  gyrz =-30  F1 =6  F2 =8  F3 =5  F4 =3  F5 =0  F6 =6  F7 =2  G1 =0.00  G2 =0.00  G3 =54.45
+
+time =12.4630 pitch =115.01  roll =89.25  gyrx =66  gyry =-17  gyrz =-34  F1 =6  F2 =8  F3 =5  F4 =3  F5 =0  F6 =7  F7 =2  G1 =0.00  G2 =0.00  G3 =58.57
+
+time =12.4770 pitch =114.59  roll =89.81  gyrx =76  gyry =-7  gyrz =-45  F1 =6  F2 =8  F3 =5  F4 =3  F5 =0  F6 =8  F7 =3  G1 =0.00  G2 =0.00  G3 =60.23
+
+time =12.4910 pitch =113.34  roll =90.88  gyrx =72  gyry =9  gyrz =-45  F1 =5  F2 =8  F3 =4  F4 =3  F5 =1  F6 =8  F7 =3  G1 =0.00  G2 =0.00  G3 =61.70
+
+time =12.5060 pitch =112.20  roll =92.65  gyrx =82  gyry =32  gyrz =-47  F1 =5  F2 =8  F3 =4  F4 =3  F5 =1  F6 =10  F7 =4  G1 =0.00  G2 =0.00  G3 =63.08
+
+time =12.5200 pitch =112.78  roll =94.15  gyrx =72  gyry =59  gyrz =-45  F1 =4  F2 =8  F3 =3  F4 =3  F5 =2  F6 =11  F7 =4  G1 =0.00  G2 =0.00  G3 =65.53
+
+time =12.5340 pitch =113.38  roll =94.89  gyrx =83  gyry =51  gyrz =-43  F1 =1  F2 =7  F3 =2  F4 =4  F5 =2  F6 =12  F7 =4  G1 =0.00  G2 =0.00  G3 =66.41
+
+time =12.5490 pitch =113.50  roll =95.17  gyrx =91  gyry =55  gyrz =-45  F1 =1  F2 =7  F3 =1  F4 =4  F5 =2  F6 =0  F7 =4  G1 =0.00  G2 =0.00  G3 =66.41
+
+time =12.5630 pitch =114.21  roll =95.44  gyrx =107  gyry =52  gyrz =-54  F1 =1  F2 =6  F3 =0  F4 =4  F5 =2  F6 =1  F7 =5  G1 =0.00  G2 =0.00  G3 =62.00
+
+time =12.5770 pitch =114.54  roll =93.51  gyrx =116  gyry =41  gyrz =-52  F1 =1  F2 =6  F3 =0  F4 =4  F5 =2  F6 =2  F7 =5  G1 =0.00  G2 =0.00  G3 =58.27
+
+time =12.5920 pitch =114.38  roll =93.64  gyrx =138  gyry =40  gyrz =-65  F1 =1  F2 =6  F3 =0  F4 =4  F5 =2  F6 =2  F7 =5  G1 =0.00  G2 =0.00  G3 =52.97
+
+time =12.6060 pitch =114.38  roll =94.00  gyrx =159  gyry =44  gyrz =-62  F1 =1  F2 =6  F3 =0  F4 =4  F5 =2  F6 =2  F7 =4  G1 =3.92  G2 =0.00  G3 =46.79
+
+time =12.6190 pitch =114.35  roll =92.98  gyrx =173  gyry =55  gyrz =-80  F1 =1  F2 =6  F3 =0  F4 =4  F5 =2  F6 =3  F7 =4  G1 =4.91  G2 =0.00  G3 =36.30
+
+time =12.6340 pitch =114.68  roll =91.86  gyrx =198  gyry =60  gyrz =-109  F1 =1  F2 =8  F3 =0  F4 =4  F5 =2  F6 =2  F7 =4  G1 =4.61  G2 =0.00  G3 =33.06
+
+time =12.6480 pitch =116.08  roll =91.15  gyrx =222  gyry =91  gyrz =-142  F1 =1  F2 =9  F3 =0  F4 =4  F5 =2  F6 =0  F7 =4  G1 =2.94  G2 =0.00  G3 =30.12
+
+time =12.6620 pitch =118.23  roll =90.89  gyrx =240  gyry =107  gyrz =-159  F1 =1  F2 =9  F3 =0  F4 =2  F5 =2  F6 =11  F7 =3  G1 =0.00  G2 =0.00  G3 =26.19
+
+time =12.6770 pitch =120.28  roll =94.45  gyrx =249  gyry =97  gyrz =-206  F1 =1  F2 =9  F3 =0  F4 =2  F5 =2  F6 =9  F7 =5  G1 =0.00  G2 =0.00  G3 =24.13
+
+time =12.6910 pitch =120.99  roll =99.00  gyrx =250  gyry =76  gyrz =-250  F1 =1  F2 =7  F3 =0  F4 =0  F5 =2  F6 =5  F7 =5  G1 =0.00  G2 =0.00  G3 =21.48
+
+time =12.7050 pitch =121.53  roll =101.84  gyrx =250  gyry =-16  gyrz =-217  F1 =1  F2 =4  F3 =0  F4 =0  F5 =3  F6 =2  F7 =3  G1 =0.00  G2 =0.00  G3 =17.27
+
+time =12.7200 pitch =121.88  roll =103.80  gyrx =250  gyry =-34  gyrz =-78  F1 =1  F2 =3  F3 =0  F4 =0  F5 =2  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =6.28
+
+time =12.7340 pitch =121.71  roll =103.83  gyrx =250  gyry =28  gyrz =-22  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =2.75
+
+time =12.7470 pitch =122.47  roll =103.58  gyrx =244  gyry =34  gyrz =-21  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.88
+
+time =12.7620 pitch =121.38  roll =104.92  gyrx =190  gyry =50  gyrz =-39  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.00
+
+time =12.7750 pitch =119.66  roll =107.56  gyrx =131  gyry =143  gyrz =-58  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.39
+
+time =12.7890 pitch =91.41  roll =121.79  gyrx =111  gyry =133  gyrz =-91  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.49
+
+time =12.8030 pitch =105.37  roll =130.23  gyrx =-12  gyry =106  gyrz =-30  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.49  G2 =0.00  G3 =0.39
+
+time =12.8170 pitch =115.16  roll =123.24  gyrx =-59  gyry =39  gyrz =107  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.59  G2 =0.00  G3 =0.20
+
+time =12.8300 pitch =127.54  roll =136.05  gyrx =-126  gyry =-62  gyrz =199  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.59  G2 =0.00  G3 =0.20
+
+time =12.8450 pitch =126.94  roll =118.29  gyrx =-125  gyry =-62  gyrz =202  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.29  G2 =0.00  G3 =0.20
+
+time =12.8580 pitch =121.57  roll =103.46  gyrx =-143  gyry =-36  gyrz =194  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.20  G2 =0.00  G3 =0.20
+
+time =12.8720 pitch =129.64  roll =86.61  gyrx =-166  gyry =-44  gyrz =150  F1 =1  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =0.20
+
+time =12.8860 pitch =126.57  roll =75.22  gyrx =   F4 =0  F5 =1  F6 =0  F7 =0  G1 =2.16  G2 =0.00  G3 =1.18
+
+t  roll =118.31  gyrx =99  gyry =34  gyrz =47  F1 =0  F2 =1  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =2.16  G2 =0.00  G3 =1.18
+
+time =13.3130 pitch =127.66  roll =104.99  gyrx =86  gyry =52  gyrz =-90  F1 =0  F2 =2  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =2.16  G2 =0.00  G3 =1.28
+
+time =13.3260 pitch =120.49  roll =104.26  gyrx =154  gyry =66  gyrz =95  F1 =0  F2 =1  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =2.16  G2 =0.00  G3 =1.18
+
+time =13.3390 pitch =114.52  roll =106.05  gyrx =242  gyry =24  gyrz =2  F1 =0  F2 =1  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =1.96  G2 =0.00  G3 =0.69
+
+time =13.3530 pitch =110.05  roll =103.78  gyrx =250  gyry =89  gyrz =-45  F1 =1  F2 =1  F3 =0  F4 =0  F5 =1  F6 =0  F7 =0  G1 =1.96  G2 =0.00  G3 =0.69
+
+time =13.3670 pitch =117.20  roll =101.80  gyrx =231  gyry =144  gyrz =-250  F1 =2  F2 =2  F3 =1  F4 =0  F5 =1  F6 =0  F7 =0  G1 =1.77  G2 =0.00  G3 =0.69
+
+time =13.3810 pitch =114.55  roll =104.93  gyrx =127  gyry =106  gyrz =-237  F1 =3  F2 =2  F3 =2  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.78  G2 =0.00  G3 =1.57
+
+time =13.3950 pitch =118.67  roll =111.16  gyrx =69  gyry =51  gyrz =197  F1 =3  F2 =2  F3 =2  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.15
+
+time =13.4090 pitch =131.79  roll =92.66  gyrx =34  gyry =-17  gyrz =192  F1 =3  F2 =3  F3 =2  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.88
+
+time =13.4230 pitch =132.87  roll =89.86  gyrx =34  gyry =21  gyrz =76  F1 =4  F2 =3  F3 =2  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =31.10
+
+time =13.4360 pitch =136.72  roll =98.80  gyrx =23  gyry =-6  gyrz =135  F1 =4  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =33.26
+
+time =13.4510 pitch =134.47  roll =95.44  gyrx =47  gyry =-38  gyrz =29  F1 =4  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =40.22
+
+time =13.4650 pitch =131.18  roll =92.45  gyrx =48  gyry =-28  gyrz =-65  F1 =4  F2 =4  F3 =3  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =45.32
+
+time =13.4790 pitch =128.89  roll =92.15  gyrx =33  gyry =-9  gyrz =-82  F1 =4  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =51.01
+
+time =13.4940 pitch =126.39  roll =92.01  gyrx =17  gyry =-15  gyrz =-55  F1 =4  F2 =4  F3 =4  F4 =0  F5 =1  F6 =2  F7 =0  G1 =0.00  G2 =0.00  G3 =57.39
+
+time =13.5080 pitch =125.89  roll =91.17  gyrx =5  gyry =0  gyrz =-13  F1 =4  F2 =4  F3 =4  F4 =0  F5 =1  F6 =3  F7 =1  G1 =0.00  G2 =0.00  G3 =69.85
+
+time =13.5220 pitch =124.60  roll =89.95  gyrx =2  gyry =7  gyrz =16  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =3  F7 =1  G1 =0.00  G2 =0.00  G3 =74.95
+
+time =13.5360 pitch =125.10  roll =87.93  gyrx =-3  gyry =19  gyrz =-2  F1 =5  F2 =5  F3 =4  F4 =1  F5 =1  F6 =4  F7 =2  G1 =0.00  G2 =0.00  G3 =78.48
+
+time =13.5500 pitch =125.23  roll =87.11  gyrx =-1  gyry =-1  gyrz =-38  F1 =5  F2 =5  F3 =4  F4 =1  F5 =1  F6 =4  F7 =2  G1 =0.00  G2 =0.00  G3 =82.21
+
+time =13.5640 pitch =125.28  roll =87.05  gyrx =-6  gyry =-10  gyrz =-44  F1 =5  F2 =5  F3 =4  F4 =1  F5 =1  F6 =4  F7 =2  G1 =0.00  G2 =0.00  G3 =82.50
+
+time =13.5790 pitch =125.02  roll =87.13  gyrx =-9  gyry =-1  gyrz =-14  F1 =5  F2 =5  F3 =4  F4 =1  F5 =1  F6 =4  F7 =2  G1 =0.00  G2 =0.00  G3 =81.72
+
+time =13.5930 pitch =126.17  roll =87.10  gyrx =-12  gyry =-6  gyrz =2  F1 =5  F2 =5  F3 =4  F4 =1  F5 =1  F6 =4  F7 =2  G1 =0.00  G2 =0.00  G3 =79.66
+
+time =13.6070 pitch =125.09  roll =86.51  gyrx =-11  gyry =1  gyrz =6  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =72.69
+
+time =13.6210 pitch =124.33  roll =85.84  gyrx =-12  gyry =9  gyrz =-1  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =68.67
+
+time =13.6350 pitch =123.79  roll =85.25  gyrx =-12  gyry =14  gyrz =-8  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =64.35
+
+time =13.6490 pitch =123.51  roll =85.16  gyrx =-11  gyry =12  gyrz =-8  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =60.14
+
+time =13.6640 pitch =124.09  roll =84.78  gyrx =-7  gyry =12  gyrz =6  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =53.86
+
+time =13.6770 pitch =124.11  roll =83.96  gyrx =-11  gyry =8  gyrz =1  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =51.70
+
+time =13.6910 pitch =124.89  roll =84.22  gyrx =-11  gyry =11  gyrz =5  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =2  G1 =0.00  G2 =0.00  G3 =50.03
+
+time =13.7060 pitch =124.91  roll =83.38  gyrx =-8  gyry =8  gyrz =-1  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =2  F7 =2  G1 =0.00  G2 =0.00  G3 =47.97
+
+time =13.7200 pitch =123.16  roll =79.50  gyrx =-2  gyry =11  gyrz =-42  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =2  F7 =2  G1 =0.00  G2 =0.00  G3 =47.19
+
+time =13.7340 pitch =121.25  roll =77.27  gyrx =-5  gyry =13  gyrz =-18  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =2  F7 =2  G1 =0.00  G2 =0.00  G3 =46.70
+
+time =13.7480 pitch =120.79  roll =76.36  gyrx =-8  gyry =8  gyrz =5  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =3  G1 =0.00  G2 =0.00  G3 =46.70
+
+time =13.7620 pitch =121.10  roll =76.79  gyrx =-5  gyry =14  gyrz =-7  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =3  G1 =1.28  G2 =0.00  G3 =48.07
+
+time =13.7760 pitch =122.01  roll =77.19  gyrx =-2  gyry =12  gyrz =-10  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =3  F7 =3  G1 =2.35  G2 =0.00  G3 =49.64
+
+time =13.7910 pitch =122.93  roll =77.63  gyrx =0  gyry =5  gyrz =-7  F1 =6  F2 =5  F3 =4  F4 =1  F5 =1  F6 =3  F7 =3  G1 =3.14  G2 =0.00  G3 =51.31
+
+time =13.8040 pitch =123.36  roll =78.10  gyrx =3  gyry =-3  gyrz =-10  F1 =6  F2 =5  F3 =4  F4 =1  F5 =1  F6 =3  F7 =3  G1 =4.41  G2 =0.00  G3 =52.48
+
+time =13.8180 pitch =121.62  roll =79.83  gyrx =7  gyry =-2  gyrz =-35  F1 =6  F2 =5  F3 =4  F4 =1  F5 =1  F6 =3  F7 =3  G1 =6.77  G2 =0.00  G3 =54.45
+
+time =13.8330 pitch =123.95  roll =80.99  gyrx =8  gyry =-9  gyrz =-6  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =4  F7 =3  G1 =7.46  G2 =0.00  G3 =55.23
+
+time =13.8470 pitch =123.98  roll =81.48  gyrx =6  gyry =-16  gyrz =-2  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =4  F7 =3  G1 =8.14  G2 =0.00  G3 =55.62
+
+time =13.8610 pitch =123.45  roll =81.72  gyrx =6  gyry =-9  gyrz =-14  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =4  F7 =4  G1 =8.93  G2 =0.00  G3 =54.84
+
+time =13.8750 pitch =123.43  roll =82.96  gyrx =5  gyry =-8  gyrz =-9  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =4  F7 =3  G1 =9.81  G2 =0.00  G3 =54.05
+
+time =13.8890 pitch =123.97  roll =83.53  gyrx =1  gyry =-7  gyrz =12  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =4  F7 =3  G1 =8.93  G2 =0.00  G3 =52.88
+
+time =13.9030 pitch =123.93  roll =84.34  gyrx =-3  gyry =-9  gyrz =12  F1 =6  F2 =6  F3 =5  F4 =1  F5 =1  F6 =3  F7 =3  G1 =6.97  G2 =0.00  G3 =51.11
+
+time =13.9180 pitch =123.15  roll =84.63  gyrx =-5  gyry =-17  gyrz =-1  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =3  F7 =2  G1 =3.92  G2 =0.00  G3 =47.09
+
+time =13.9310 pitch =123.31  roll =84.87  gyrx =-21  gyry =-20  gyrz =57  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =2  F7 =2  G1 =0.00  G2 =0.00  G3 =45.13
+
+time =13.9450 pitch =122.77  roll =84.90  gyrx =-32  gyry =-37  gyrz =78  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =2  F7 =1  G1 =0.00  G2 =0.00  G3 =43.26
+
+time =13.9600 pitch =117.54  roll =90.53  gyrx =-7  gyry =10  gyrz =50  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =2  F7 =1  G1 =0.00  G2 =0.00  G3 =41.50
+
+time =13.9740 pitch =117.66  roll =87.63  gyrx =-2  gyry =0  gyrz =43  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =38.75
+
+time =13.9880 pitch =118.15  roll =86.23  gyrx =8  gyry =9  gyrz =5  F1 =6  F2 =6  F3 =5  F4 =0  F5 =1  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =37.96
+
+time =14.0020 pitch =119.46  roll =85.48  gyrx =9  gyry =2  gyrz =12  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =36.69
+
+time =14.0160 pitch =119.92  roll =84.48  gyrx =16  gyry =-20  gyrz =15  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =31.88
+
+time =14.0300 pitch =120.69  roll =83.81  gyrx =10  gyry =-27  gyrz =4  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =1  G1 =0.00  G2 =0.00  G3 =28.94
+
+time =14.0450 pitch =120.93  roll =82.35  gyrx =1  gyry =-25  gyrz =-8  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =26.29
+
+time =14.0580 pitch =120.73  roll =83.21  gyrx =4  gyry =-19  gyrz =-24  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =14.0720 pitch =119.73  roll =83.85  gyrx =0  gyry =-8  gyrz =-15  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.78
+
+time =14.0870 pitch =119.06  roll =84.27  gyrx =-3  gyry =-2  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.39
+
+time =14.1010 pitch =118.79  roll =83.93  gyrx =-7  gyry =2  gyrz =1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.58
+
+time =14.1140 pitch =118.99  roll =83.44  gyrx =-6  gyry =4  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =21.88
+
+time =14.1290 pitch =119.11  roll =83.19  gyrx =-3  gyry =5  gyrz =-6  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =22.37
+
+time =14.1430 pitch =119.73  roll =83.21  gyrx =-4  gyry =4  gyrz =8  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.05
+
+time =14.1560 pitch =119.96  roll =82.80  gyrx =-6  gyry =0  gyrz =16  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.64
+
+time =14.1710 pitch =119.95  roll =81.92  gyrx =-5  gyry =0  gyrz =5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =24.03
+
+time =14.1850 pitch =119.66  roll =81.50  gyrx =-1  gyry =0  gyrz =-12  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =14.1980 pitch =119.59  roll =81.44  gyrx =5  gyry =-4  gyrz =-10  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =14.2130 pitch =119.45  roll =81.59  gyrx =8  gyry =-8  gyrz =-9  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =24.13
+
+time =14.2270 pitch =119.31  roll =81.88  gyrx =10  gyry =-9  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.64
+
+time =14.2410 pitch =119.17  roll =82.44  gyrx =10  gyry =-8  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =23.15
+
+time =14.2550 pitch =119.19  roll =83.00  gyrx =7  gyry =-3  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.76
+
+time =14.2690 pitch =119.47  roll =83.10  gyrx =2  gyry =0  gyrz =5  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.17
+
+time =14.2820 pitch =119.79  roll =83.32  gyrx =0  gyry =1  gyrz =7  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.58
+
+time =14.2960 pitch =119.85  roll =83.07  gyrx =-3  gyry =1  gyrz =3  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =14.3100 pitch =119.81  roll =82.72  gyrx =-6  gyry =2  gyrz =-1  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =14.3240 pitch =119.78  roll =82.51  gyrx =-7  gyry =-1  gyrz =-9  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =14.3380 pitch =119.69  roll =82.54  gyrx =-5  gyry =-4  gyrz =-5  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.80
+
+time =14.3520 pitch =119.45  roll =82.55  gyrx =-6  gyry =-5  gyrz =-5  F1 =5  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.80
+
+time =14.3660 pitch =119.23  roll =82.37  gyrx =-5  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.90
+
+time =14.3800 pitch =119.26  roll =82.28  gyrx =-3  gyry =-1  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =14.3940 pitch =119.27  roll =82.21  gyrx =0  gyry =-3  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =14.4070 pitch =119.58  roll =82.39  gyrx =0  gyry =-2  gyrz =3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =14.4220 pitch =119.62  roll =82.25  gyrx =-1  gyry =1  gyrz =5  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =14.4350 pitch =119.72  roll =81.90  gyrx =-2  gyry =3  gyrz =-4  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =14.4490 pitch =119.73  roll =82.01  gyrx =-1  gyry =0  gyrz =-6  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.50
+
+time =14.4640 pitch =119.71  roll =82.17  gyrx =-1  gyry =-2  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.50
+
+time =14.4770 pitch =119.50  roll =82.19  gyrx =0  gyry =-1  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =14.4910 pitch =119.52  roll =82.40  gyrx =-1  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =14.5040 pitch =119.57  roll =82.52  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.68
+
+time =14.5190 pitch =119.44  roll =82.63  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.07
+
+time =14.5330 pitch =119.39  roll =82.52  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.46
+
+time =14.5460 pitch =119.11  roll =81.94  gyrx =0  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.96
+
+time =14.5610 pitch =118.99  roll =81.97  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.94
+
+time =14.5740 pitch =119.15  roll =82.01  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =14.5880 pitch =119.24  roll =81.98  gyrx =0  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.92
+
+time =14.6030 pitch =119.25  roll =81.91  gyrx =0  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.41
+
+time =14.6160 pitch =119.42  roll =81.92  gyrx =-1  gyry =1  gyrz =-7  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.19
+
+time =14.6300 pitch =119.52  roll =82.13  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.39
+
+time =14.6450 pitch =119.46  roll =82.09  gyrx =0  gyry =0  gyrz =1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.49
+
+time =14.6580 pitch =119.33  roll =82.12  gyrx =0  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.78
+
+time =14.6720 pitch =119.22  roll =82.24  gyrx =0  gyry =1  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =27.47
+
+time =14.6860 pitch =119.33  roll =82.37  gyrx =0  gyry =3  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =27.96
+
+time =14.7000 pitch =119.33  roll =82.48  gyrx =0  gyry =2  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.15
+
+time =14.7140 pitch =119.20  roll =82.58  gyrx =0  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.65
+
+time =14.7280 pitch =119.19  roll =82.53  gyrx =0  gyry =1  gyrz =-11  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =30.61
+
+time =14.7420 pitch =119.30  roll =82.65  gyrx =-2  gyry =2  gyrz =-13  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =31.88
+
+time =14.7560 pitch =119.62  roll =82.84  gyrx =-2  gyry =1  gyrz =-7  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =32.96
+
+time =14.7710 pitch =119.78  roll =82.83  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =34.14
+
+time =14.7840 pitch =119.74  roll =82.85  gyrx =-1  gyry =-1  gyrz =-1  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =35.71
+
+time =14.7980 pitch =119.64  roll =82.90  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =36.30
+
+time =14.8130 pitch =119.71  roll =82.93  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =36.79
+
+time =14.8260 pitch =119.64  roll =83.13  gyrx =-1  gyry =-1  gyrz =-2  F1 =6  F2 =5  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =37.57
+
+time =14.8400 pitch =119.55  roll =83.21  gyrx =-1  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =37.96
+
+time =14.8550 pitch =119.56  roll =83.26  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =38.26
+
+time =14.8690 pitch =119.62  roll =83.25  gyrx =-4  gyry =1  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =38.55
+
+time =14.8820 pitch =119.80  roll =83.30  gyrx =-5  gyry =2  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =38.46
+
+time =14.8970 pitch =119.97  roll =83.14  gyrx =-4  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =38.16
+
+time =14.9110 pitch =119.85  roll =83.10  gyrx =-2  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =37.67
+
+time =14.9240 pitch =119.76  roll =83.05  gyrx =-1  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =37.28
+
+time =14.9390 pitch =119.56  roll =83.11  gyrx =-1  gyry =-2  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =36.59
+
+time =14.9530 pitch =119.46  roll =83.11  gyrx =-1  gyry =-2  gyrz =2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =36.00
+
+time =14.9660 pitch =119.50  roll =83.12  gyrx =-2  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =35.61
+
+time =14.9810 pitch =119.60  roll =83.15  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =35.32
+
+time =14.9950 pitch =119.67  roll =83.18  gyrx =-4  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =34.43
+
+time =15.0080 pitch =119.72  roll =83.15  gyrx =-5  gyry =1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =33.94
+
+time =15.0230 pitch =119.74  roll =83.30  gyrx =-7  gyry =3  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =33.45
+
+time =15.0370 pitch =119.76  roll =83.16  gyrx =-7  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =32.86
+
+time =15.0500 pitch =119.80  roll =83.01  gyrx =-7  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =31.10
+
+time =15.0650 pitch =119.66  roll =82.85  gyrx =-5  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =1  F7 =0  G1 =0.00  G2 =0.00  G3 =30.41
+
+time =15.0790 pitch =119.69  roll =82.89  gyrx =-5  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =29.92
+
+time =15.0930 pitch =119.65  roll =82.88  gyrx =-5  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.94
+
+time =15.1070 pitch =119.63  roll =82.83  gyrx =-5  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =28.25
+
+time =15.1210 pitch =119.58  roll =82.75  gyrx =-5  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =27.86
+
+time =15.1350 pitch =119.69  roll =82.69  gyrx =-6  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =27.47
+
+time =15.1490 pitch =119.73  roll =82.57  gyrx =-7  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.39
+
+time =15.1630 pitch =119.86  roll =82.41  gyrx =-4  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.70
+
+time =15.1770 pitch =119.75  roll =82.25  gyrx =-2  gyry =-2  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.21
+
+time =15.1920 pitch =119.57  roll =82.32  gyrx =-1  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.92
+
+time =15.2050 pitch =119.52  roll =82.44  gyrx =-2  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =15.2190 pitch =119.54  roll =82.46  gyrx =-3  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.62
+
+time =15.2340 pitch =119.55  roll =82.51  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =15.2480 pitch =119.57  roll =82.52  gyrx =-4  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.13
+
+time =15.2610 pitch =119.65  roll =82.52  gyrx =-5  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.64
+
+time =15.2760 pitch =119.70  roll =82.47  gyrx =-5  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.35
+
+time =15.2900 pitch =119.59  roll =82.41  gyrx =-6  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.05
+
+time =15.3030 pitch =119.57  roll =82.46  gyrx =-8  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.56
+
+time =15.3180 pitch =119.57  roll =82.27  gyrx =-3  gyry =-2  gyrz =1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.68
+
+time =15.3320 pitch =119.38  roll =82.19  gyrx =-1  gyry =-3  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =15.3460 pitch =119.36  roll =82.13  gyrx =-1  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =15.3600 pitch =119.49  roll =82.19  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =15.3740 pitch =119.57  roll =82.10  gyrx =-4  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =15.3870 pitch =119.57  roll =81.99  gyrx =-4  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =15.4010 pitch =119.52  roll =81.98  gyrx =-3  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =15.4150 pitch =119.53  roll =82.05  gyrx =-4  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =15.4290 pitch =119.49  roll =82.05  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =15.4430 pitch =119.46  roll =82.05  gyrx =-3  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =15.4570 pitch =119.52  roll =82.05  gyrx =-3  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =15.4710 pitch =119.57  roll =82.09  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =15.4850 pitch =119.67  roll =82.10  gyrx =-3  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.90
+
+time =15.4990 pitch =119.68  roll =82.07  gyrx =-3  gyry =-1  gyrz =1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.90
+
+time =15.5130 pitch =119.54  roll =82.03  gyrx =-3  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.80
+
+time =15.5270 pitch =119.48  roll =82.08  gyrx =-4  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =15.5410 pitch =119.51  roll =82.09  gyrx =-5  gyry =1  gyrz =-4  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.60
+
+time =15.5550 pitch =119.54  roll =82.13  gyrx =-5  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.21
+
+time =15.5680 pitch =119.53  roll =82.09  gyrx =-7  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.82
+
+time =15.5830 pitch =119.60  roll =82.06  gyrx =-6  gyry =0  gyrz =-4  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+= F4 =0  F5 =1  F6 =0  F7 =0  G1 =
+.00  G2 =0.00 0 pitch =119.42  roll =81.38  gyrx =-2  gyry =-1  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.46
+
+time =15.9170 pitch =119.46  roll =81.43  gyrx =-1  gyry =-1  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.56
+
+time =15.9310 pitch =119.38  roll =81.46  gyrx =-1  gyry =-1  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.56
+
+time =15.9450 pitch =119.45  roll =81.44  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.56
+
+time =15.9590 pitch =119.47  roll =81.46  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =15.9730 pitch =119.49  roll =81.50  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =15.9860 pitch =119.43  roll =81.53  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =16.0010 pitch =119.42  roll =81.61  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =16.0140 pitch =119.44  roll =81.54  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =16.0280 pitch =119.47  roll =81.42  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =16.0430 pitch =119.44  roll =81.42  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.56
+
+time =16.0560 pitch =119.44  roll =81.41  gyrx =-1  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.65
+
+time =16.0700 pitch =119.43  roll =81.39  gyrx =-1  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =12.95
+
+time =16.0830 pitch =119.44  roll =81.44  gyrx =-2  gyry =0  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.15
+
+time =16.0980 pitch =119.46  roll =81.42  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.34
+
+time =16.1110 pitch =119.44  roll =81.48  gyrx =-3  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.44
+
+time =16.1250 pitch =119.43  roll =81.42  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.73
+
+time =16.1390 pitch =119.44  roll =81.37  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.73
+
+time =16.1530 pitch =119.44  roll =81.50  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.73
+
+time =16.1670 pitch =119.46  roll =81.49  gyrx =-3  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =13.93
+
+time =16.1810 pitch =119.44  roll =81.44  gyrx =-3  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =14.13
+
+time =16.1950 pitch =119.51  roll =81.32  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =14.13
+
+time =16.2080 pitch =119.44  roll =81.34  gyrx =-1  gyry =0  gyrz =-3  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =14.22
+
+time =16.2230 pitch =119.48  roll =81.49  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =14.52
+
+time =16.2360 pitch =119.50  roll =81.43  gyrx =-3  gyry =0  gyrz =0  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.01
+
+time =16.2500 pitch =119.54  roll =81.39  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.21
+
+time =16.2650 pitch =119.52  roll =81.34  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.40
+
+time =16.2780 pitch =119.55  roll =81.32  gyrx =-4  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.60
+
+time =16.2920 pitch =119.51  roll =81.36  gyrx =-4  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.60
+
+time =16.3060 pitch =119.47  roll =81.36  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.70
+
+time =16.3200 pitch =119.44  roll =81.38  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.79
+
+time =16.3340 pitch =119.50  roll =81.33  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.79
+
+time =16.3480 pitch =119.49  roll =81.32  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.89
+
+time =16.3620 pitch =119.39  roll =81.29  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.89
+
+time =16.3760 pitch =119.38  roll =81.35  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.99
+
+time =16.3900 pitch =119.36  roll =81.36  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.09
+
+time =16.4040 pitch =119.43  roll =81.41  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.19
+
+time =16.4180 pitch =119.43  roll =81.32  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.19
+
+time =16.4330 pitch =119.48  roll =81.33  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.19
+
+time =16.4460 pitch =119.49  roll =81.31  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.19
+
+time =16.4600 pitch =119.49  roll =81.31  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =3  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.28
+
+time =16.4750 pitch =119.50  roll =81.24  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.38
+
+time =16.4880 pitch =119.46  roll =81.23  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.48
+
+time =16.5020 pitch =119.45  roll =81.26  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.58
+
+time =16.5170 pitch =119.51  roll =81.29  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.87
+
+time =16.5300 pitch =119.54  roll =81.29  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.97
+
+time =16.5440 pitch =119.57  roll =81.35  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.07
+
+time =16.5590 pitch =119.60  roll =81.44  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.36
+
+time =16.5720 pitch =119.64  roll =81.31  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.46
+
+time =16.5860 pitch =119.68  roll =81.24  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.56
+
+time =16.6010 pitch =119.65  roll =81.24  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.76
+
+time =16.6140 pitch =119.70  roll =81.28  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.15
+
+time =16.6280 pitch =119.71  roll =81.27  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.34
+
+time =16.6430 pitch =119.71  roll =81.21  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.34
+
+time =16.6570 pitch =119.69  roll =81.23  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.34
+
+time =16.6700 pitch =119.72  roll =81.29  gyrx =-3  gyry =1  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.64
+
+time =16.6850 pitch =119.74  roll =81.27  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =16.6990 pitch =119.72  roll =81.24  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =16.7120 pitch =119.68  roll =81.23  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.93
+
+time =16.7270 pitch =119.76  roll =81.22  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.13
+
+time =16.7410 pitch =119.76  roll =81.27  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.23
+
+time =16.7540 pitch =119.76  roll =81.23  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.42
+
+time =16.7690 pitch =119.71  roll =81.17  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.52
+
+time =16.7830 pitch =119.68  roll =81.20  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.62
+
+time =16.7970 pitch =119.71  roll =81.20  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.72
+
+time =16.8110 pitch =119.72  roll =81.24  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.82
+
+time =16.8250 pitch =119.69  roll =81.27  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.01
+
+time =16.8390 pitch =119.69  roll =81.17  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.01
+
+time =16.8520 pitch =119.76  roll =81.11  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.91
+
+time =16.8670 pitch =119.78  roll =81.15  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.91
+
+time =16.8810 pitch =119.82  roll =81.09  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.01
+
+time =16.8940 pitch =119.80  roll =81.07  gyrx =-2  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.01
+
+time =16.9090 pitch =119.76  roll =81.16  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.21
+
+time =16.9230 pitch =119.74  roll =81.23  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.31
+
+time =16.9370 pitch =119.72  roll =81.24  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.60
+
+time =16.9510 pitch =119.83  roll =81.22  gyrx =-3  gyry =1  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =16.9650 pitch =119.93  roll =81.15  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =16.9790 pitch =119.96  roll =81.09  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.80
+
+time =16.9930 pitch =120.01  roll =81.11  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.80
+
+time =17.0070 pitch =120.07  roll =81.06  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.90
+
+time =17.0210 pitch =120.06  roll =80.99  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.90
+
+time =17.0350 pitch =120.05  roll =81.02  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =17.0490 pitch =119.98  roll =81.06  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =17.0630 pitch =119.97  roll =81.12  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.19
+
+time =17.0770 pitch =119.97  roll =81.11  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =17.0910 pitch =120.05  roll =81.08  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.48
+
+time =17.1050 pitch =120.06  roll =81.07  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.48
+
+time =17.1200 pitch =120.05  roll =81.14  gyrx =-1  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.68
+
+time =17.1330 pitch =120.03  roll =81.14  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.78
+
+time =17.1470 pitch =120.05  roll =81.12  gyrx =-1  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.07
+
+time =17.1620 pitch =120.03  roll =81.07  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.17
+
+time =17.1750 pitch =120.04  roll =81.14  gyrx =-1  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.37
+
+time =17.1890 pitch =120.16  roll =81.14  gyrx =-2  gyry =1  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.56
+
+time =17.2040 pitch =120.19  roll =81.20  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.86
+
+time =17.2170 pitch =120.24  roll =81.24  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.05
+
+time =17.2310 pitch =120.27  roll =81.15  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.15
+
+time =17.2460 pitch =120.24  roll =81.23  gyrx =-3  gyry =1  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.25
+
+time =17.2590 pitch =120.19  roll =81.20  gyrx =-3  gyry =1  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.35
+
+time =17.2730 pitch =120.29  roll =81.17  gyrx =-4  gyry =1  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.35
+
+time =17.2880 pitch =120.35  roll =81.16  gyrx =-4  gyry =1  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.35
+
+time =17.3010 pitch =120.36  roll =81.15  gyrx =-4  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =17.3150 pitch =120.30  roll =81.10  gyrx =-4  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.25
+
+time =17.3300 pitch =120.34  roll =81.04  gyrx =-4  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.15
+
+time =17.3430 pitch =120.39  roll =81.02  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.05
+
+time =17.3570 pitch =120.39  roll =80.99  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.96
+
+time =17.3720 pitch =120.38  roll =80.94  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.86
+
+time =17.3850 pitch =120.42  roll =81.00  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.86
+
+time =17.3990 pitch =120.40  roll =80.99  gyrx =-3  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.96
+
+time =17.4140 pitch =120.39  roll =80.95  gyrx =-3  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.05
+
+time =17.4280 pitch =120.39  roll =80.99  gyrx =-3  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.15
+
+time =17.4410 pitch =120.34  roll =81.01  gyrx =-3  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.25
+
+time =17.4560 pitch =120.41  roll =81.01  gyrx =-3  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.25
+
+time =17.4700 pitch =120.45  roll =80.97  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =17.4830 pitch =120.39  roll =80.96  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =17.4980 pitch =120.39  roll =80.99  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =17.5120 pitch =120.44  roll =81.00  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.54
+
+time =17.5250 pitch =120.42  roll =80.97  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.94
+
+time =17.5400 pitch =120.38  roll =80.96  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.94
+
+time =17.5540 pitch =120.36  roll =80.95  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.03
+
+time =17.5670 pitch =120.37  roll =80.97  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =17.5820 pitch =120.40  roll =80.95  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.5960 pitch =120.43  roll =80.90  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.6100 pitch =120.47  roll =80.89  gyrx =-3  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.6240 pitch =120.46  roll =80.89  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =17.6380 pitch =120.50  roll =80.88  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =17.6520 pitch =120.51  roll =80.89  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =17.6660 pitch =120.51  roll =80.84  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.6800 pitch =120.50  roll =80.93  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.6940 pitch =120.47  roll =80.89  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.7080 pitch =120.41  roll =80.95  gyrx =-3  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =17.7220 pitch =120.40  roll =80.95  gyrx =-3  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =17.7360 pitch =120.44  roll =80.92  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.13
+
+time =17.7500 pitch =120.47  roll =80.89  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.23
+
+time =17.7640 pitch =120.53  roll =80.94  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.33
+
+time =17.7780 pitch =120.52  roll =80.81  gyrx =-2  gyry =0  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =17.7930 pitch =120.60  roll =80.81  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.43
+
+time =17.8060 pitch =120.58  roll =80.86  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.52
+
+time =17.8200 pitch =120.57  roll =80.86  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =17.8350 pitch =120.58  roll =80.92  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =17.8480 pitch =120.61  roll =80.90  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =17.8620 pitch =120.57  roll =80.84  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =17.8760 pitch =120.60  roll =80.80  gyrx =-1  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.82
+
+time =17.8900 pitch =120.56  roll =80.83  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.82
+
+time =17.9040 pitch =120.53  roll =80.84  gyrx =0  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.02
+
+time =17.9180 pitch =120.53  roll =80.99  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.21
+
+time =17.9320 pitch =120.60  roll =81.03  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.60
+
+time =17.9460 pitch =120.53  roll =81.01  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.00
+
+time =17.9600 pitch =120.56  roll =81.04  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.09
+
+time =17.9750 pitch =120.56  roll =81.08  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.00
+
+time =17.9880 pitch =120.56  roll =81.10  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.09
+
+time =18.0020 pitch =120.66  roll =81.08  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.19
+
+time =18.0170 pitch =120.65  roll =81.01  gyrx =-1  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.29
+
+time =18.0300 pitch =120.69  roll =81.01  gyrx =-1  gyry =-1  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.29
+
+time =18.0440 pitch =120.70  roll =81.10  gyrx =-1  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.29
+
+time =18.0590 pitch =120.72  roll =81.15  gyrx =-2  gyry =0  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.39
+
+time =18.0730 pitch =120.64  roll =81.15  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.39
+
+time =18.0860 pitch =120.58  roll =81.20  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.49
+
+time =18.1010 pitch =120.55  roll =81.23  gyrx =-2  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.49
+
+time =18.1150 pitch =120.56  roll =81.28  gyrx =-2  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.39
+
+time =18.1280 pitch =120.60  roll =81.25  gyrx =-2  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.19
+
+time =18.1430 pitch =120.66  roll =81.25  gyrx =-2  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =26.09
+
+time =18.1570 pitch =120.61  roll =81.21  gyrx =-2  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.80
+
+time =18.1710 pitch =120.59  roll =81.24  gyrx =-1  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.80
+
+time =18.1860 pitch =120.55  roll =81.24  gyrx =-1  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.60
+
+time =18.1990 pitch =120.61  roll =81.23  gyrx =-1  gyry =-1  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.51
+
+time =18.2130 pitch =120.58  roll =81.28  gyrx =-1  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.31
+
+time =18.2280 pitch =120.52  roll =81.26  gyrx =-2  gyry =-1  gyrz =0  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.11
+
+time =18.2420 pitch =120.47  roll =81.21  gyrx =-1  gyry =-2  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =25.02
+
+time 0=80.61  gyrx =-4  gyry =-1  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00ime =18.6640 pitch =119.68  roll =80.61  gyrx =-4  gyry =-1  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.25
+
+time =18.6780 pitch =119.62  roll =80.57  gyrx =-3  gyry =-1  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.15
+
+time =18.6930 pitch =119.59  roll =80.56  gyrx =-3  gyry =-2  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.85
+
+time =18.7070 pitch =119.51  roll =80.45  gyrx =-2  gyry =-1  gyrz =-5  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.76
+
+time =18.7210 pitch =119.59  roll =80.50  gyrx =-1  gyry =-1  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.66
+
+time =18.7350 pitch =119.56  roll =80.50  gyrx =-1  gyry =-2  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.85
+
+time =18.7490 pitch =119.55  roll =80.59  gyrx =-1  gyry =-1  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.95
+
+time =18.7630 pitch =119.55  roll =80.58  gyrx =-2  gyry =-1  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.95
+
+time =18.7780 pitch =119.51  roll =80.56  gyrx =-1  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.05
+
+time =18.7910 pitch =119.41  roll =80.60  gyrx =0  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.25
+
+time =18.8050 pitch =119.47  roll =80.70  gyrx =-1  gyry =-1  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.44
+
+time =18.8200 pitch =119.46  roll =80.82  gyrx =-1  gyry =-1  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.54
+
+time =18.8340 pitch =119.50  roll =80.77  gyrx =-2  gyry =0  gyrz =0  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.74
+
+time =18.8470 pitch =119.52  roll =80.69  gyrx =-2  gyry =-1  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.64
+
+time =18.8620 pitch =119.46  roll =80.79  gyrx =-2  gyry =-2  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.74
+
+time =18.8760 pitch =119.43  roll =80.76  gyrx =-2  gyry =-2  gyrz =-1  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =18.8900 pitch =119.28  roll =80.70  gyrx =-2  gyry =-1  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =18.9050 pitch =119.23  roll =80.74  gyrx =-1  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.84
+
+time =18.9180 pitch =119.23  roll =80.71  gyrx =0  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.93
+
+time =18.9320 pitch =119.25  roll =80.84  gyrx =0  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.13
+
+time =18.9470 pitch =119.20  roll =80.92  gyrx =0  gyry =-1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.91
+
+time =18.9600 pitch =119.19  roll =81.07  gyrx =0  gyry =0  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.21
+
+time =18.9740 pitch =119.24  roll =81.12  gyrx =-2  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.60
+
+time =18.9890 pitch =119.33  roll =81.06  gyrx =-2  gyry =1  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =19.0020 pitch =119.36  roll =81.08  gyrx =-2  gyry =0  gyrz =-5  F1 =6  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.68
+
+time =19.0160 pitch =119.40  roll =81.14  gyrx =-2  gyry =0  gyrz =-3  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.88
+
+time =19.0310 pitch =119.29  roll =81.24  gyrx =-2  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.17
+
+time =19.0450 pitch =119.27  roll =81.30  gyrx =-3  gyry =0  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.46
+
+time =19.0580 pitch =119.26  roll =81.27  gyrx =-2  gyry =0  gyrz =-2  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.15
+
+time =19.0730 pitch =119.25  roll =81.27  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.45
+
+time =19.0870 pitch =119.28  roll =81.35  gyrx =-2  gyry =0  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.84
+
+time =19.1000 pitch =119.33  roll =81.32  gyrx =-3  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.03
+
+time =19.1150 pitch =119.25  roll =81.28  gyrx =-3  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.52
+
+time =19.1290 pitch =119.36  roll =81.24  gyrx =-4  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.62
+
+time =19.1420 pitch =119.34  roll =81.36  gyrx =-4  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =19.1560 pitch =119.24  roll =81.42  gyrx =-4  gyry =0  gyrz =-2  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.82
+
+time =19.1710 pitch =119.16  roll =81.23  gyrx =-3  gyry =0  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.72
+
+time =19.1850 pitch =119.18  roll =81.44  gyrx =-3  gyry =-2  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.62
+
+time =19.1980 pitch =119.27  roll =81.31  gyrx =-3  gyry =-2  gyrz =-1  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.52
+
+time =19.2130 pitch =119.26  roll =81.20  gyrx =-3  gyry =-2  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =24.13
+
+time =19.2270 pitch =119.24  roll =81.17  gyrx =-2  gyry =-3  gyrz =-3  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.94
+
+time =19.2410 pitch =119.22  roll =81.17  gyrx =-2  gyry =-3  gyrz =-1  F1 =5  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.64
+
+time =19.2550 pitch =119.15  roll =81.10  gyrx =-1  gyry =-2  gyrz =-4  F1 =6  F2 =4  F3 =4  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =23.25
+
+time =19.2690 pitch =119.21  roll =81.20  gyrx =-1  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.46
+
+time =19.2830 pitch =119.16  roll =81.34  gyrx =-1  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =22.07
+
+time =19.2980 pitch =118.82  roll =81.14  gyrx =-1  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.78
+
+time =19.3120 pitch =118.80  roll =81.18  gyrx =0  gyry =-2  gyrz =-9  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.29
+
+time =19.3250 pitch =118.74  roll =81.36  gyrx =-1  gyry =-3  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =21.09
+
+time =19.3400 pitch =118.70  roll =81.44  gyrx =-2  gyry =-4  gyrz =0  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.99
+
+time =19.3540 pitch =118.60  roll =81.37  gyrx =-1  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.70
+
+time =19.3680 pitch =118.59  roll =81.41  gyrx =-1  gyry =-3  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.40
+
+time =19.3820 pitch =118.60  roll =81.45  gyrx =-1  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =20.21
+
+time =19.3960 pitch =118.53  roll =81.51  gyrx =-2  gyry =-4  gyrz =-2  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.91
+
+time =19.4100 pitch =118.42  roll =81.52  gyrx =-2  gyry =-3  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.62
+
+time =19.4250 pitch =118.37  roll =81.57  gyrx =-2  gyry =-2  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =19.13
+
+time =19.4390 pitch =118.39  roll =81.57  gyrx =-3  gyry =-3  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.74
+
+time =19.4520 pitch =118.37  roll =81.57  gyrx =-3  gyry =-3  gyrz =-5  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =18.54
+
+time =19.4670 pitch =118.34  roll =81.53  gyrx =-3  gyry =-3  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.76
+
+time =19.4810 pitch =118.35  roll =81.56  gyrx =-4  gyry =-4  gyrz =-3  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =17.36
+
+time =19.4950 pitch =118.22  roll =81.36  gyrx =-2  gyry =-3  gyrz =-9  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.87
+
+time =19.5100 pitch =118.16  roll =81.47  gyrx =-3  gyry =-6  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =16.48
+
+time =19.5230 pitch =118.00  roll =81.34  gyrx =-3  gyry =-4  gyrz =-4  F1 =5  F2 =4  F3 =3  F4 =0  F5 =1  F6 =0  F7 =0  G1 =0.00  G2 =0.00  G3 =15.30
+
+time =19.5370 pitch =117.94  roll =81.37  gyrx =-3  gyry =-4  gyrz =-8  F1 =5  F2 =3  F3 
