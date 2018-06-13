@@ -105,8 +105,8 @@ while True:
 
 			}
 		
-		rc1.SpeedAccelDeccelPositionM1(address,0,0,0,int((motor_data[1]/360)*2000),0)
-		rc1.SpeedAccelDeccelPositionM2(address,0,0,0,int((motor_data[2]/360)*2000),0)
+		rc1.SpeedAccelDeccelPositionM1(address,0,0,0,int(-(motor_data[1]/360)*2000),0)
+		rc1.SpeedAccelDeccelPositionM2(address,0,0,0,int(-(motor_data[2]/360)*2000),0)
 		rc2.SpeedAccelDeccelPositionM1(address,0,0,0,int((motor_data[3]/360)*2000),0)
 		rc2.SpeedAccelDeccelPositionM2(address,0,0,0,int((motor_data[4]/360)*2000),0)
 
