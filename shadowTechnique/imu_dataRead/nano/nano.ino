@@ -2,7 +2,6 @@
 #include <SPI.h>
 #include "nRF24L01.h"
 #include "RF24.h"
-#define PI 3.143
 
 //IMU Variables
 const int G_SENS=131;          //a division factor that directly gives omega calculated
@@ -22,11 +21,6 @@ typedef struct
   int gyrx;
   int gyry;
   int gyrz;
-  int forceSens1;
-  int forceSens2;
-  int forceSens3;
-  int forceSens4;
-  int forceSens5;
 } data;
 
 
@@ -150,9 +144,9 @@ void loop(void)
 {  
   get_imu_data();
     
-  Data.pitch = int(pitch*100);
+  Data.pitch= int(pitch*100);
   Data.roll = int(roll*100);
-  Data.gyrx = 55;
+  Data.gyrx = GYRZ;
   Data.gyry = GYRY;
   Data.gyrz = GYRZ;
   
