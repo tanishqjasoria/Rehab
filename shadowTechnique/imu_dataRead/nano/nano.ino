@@ -137,7 +137,7 @@ Wire.write(0x6B);                                                               
 Wire.write(0);                                                                           //awakes MCU by sending 0 to above register address
 Wire.endTransmission(true);
 
-Data.id = 3;
+Data.id = 0;
 
 radio.begin();
 radio.setDataRate(RF24_2MBPS);
