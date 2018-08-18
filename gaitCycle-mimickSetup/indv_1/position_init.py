@@ -98,6 +98,7 @@ while True:
 		print "Motor 2",motor_data[2]
 		print (motor_data[3])
 		print (motor_data[4])
+		displayspeed(motor_data[0])
 		i=0
 		while((time.clock()-init_time)<=motor_data[0]):
 			{

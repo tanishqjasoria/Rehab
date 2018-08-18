@@ -51,7 +51,7 @@ address = 0x80
 
 
 #Open a file
-fo = open("m_data.txt", "r+")
+fo = open("data.txt", "r+")
 
 print "Name of the file: ", fo.name
 print "Closed or not : ", fo.closed
@@ -94,8 +94,8 @@ while True:
 			#print "D",chunk[j]
 
 	 	print "Time_Data",motor_data[0]
-	 	print "Motor 1",motor_data[1]
-		print "Motor 2",motor_data[2]
+	 	print "Motor 1",motor_data[3]
+		print "Motor 2",motor_data[4]
 		#print (motor_data[3])
 		#print (motor_data[4])
 		i=0
@@ -104,8 +104,8 @@ while True:
 
 			}
 		
-		rc.SpeedAccelDeccelPositionM1(address,0,0,0,int((motor_data[3]/360)*2000),0)
-		rc.SpeedAccelDeccelPositionM2(address,0,0,0,int((motor_data[4]/360)*2000),0)
+		rc.SpeedAccelDeccelPositionM1(address,0,0,0,int(-(motor_data[3]/360)*2000),0)
+		rc.SpeedAccelDeccelPositionM2(address,0,0,0,int(-(motor_data[4]/360)*2000),0)
 		displayspeed(time.clock()-init_time)
 		print "Time_Actual",(time.clock()-init_time)
 

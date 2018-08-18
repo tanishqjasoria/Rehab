@@ -594,16 +594,11 @@ main()
     double *linguistic_term_input[DIMENSION_max],*linguistic_term_output[DIMENSION_max],*membership_function_value_input[DIMENSION_max],*LCM,*HCF,*crisp_output,*sum_LCM,*sum_HCF;
    double *linguistic_range_input_min[DIMENSION_max],*linguistic_range_input_max[DIMENSION_max],*linguistic_range_output_min[DIMENSION_max],*linguistic_range_output_max[DIMENSION_max],*linguisticoutput_if_else[DIMENSION_max];
     double criteria,*i_inp,*o_oup,* membership_matrix,*randnum,minfp,gbest_location,*min_input,*max_input,*min_output,*max_output,*AA[DIMENSION_max],*BB[DIMENSION_max],*EuD[DIMENSION_max],* membership_matrix_update,*diff_membership_matrix;
-//srand ( time(NULL) );
 int inti_ltern,i_lterni;
- //double *test1[maxs];
 int i_lter2,i_lter3,*linguistic_number[DIMENSION_max];
-//linguistic[dimension]
 
-//sumrandnum= (double *) malloc(TRAINING_DATA_max * sizeof(double));
 linguistic_input= (int *) malloc(	DIMENSION_max * sizeof(int));
 linguistic_output= (int *) malloc(	DIMENSION_max * sizeof(int));
-//linguistic_number= (int *) malloc(	LINGUISTIC_max * sizeof(int));
 min_input= (double *) malloc(	DIMENSION_max * sizeof(double));
 max_input= (double *) malloc(	DIMENSION_max * sizeof(double));
 
@@ -617,14 +612,7 @@ LCM= (double *) malloc(	DIMENSION_max * sizeof(double));
 HCF= (double *) malloc(	DIMENSION_max * sizeof(double));
 
 crisp_output= (double *) malloc(DIMENSION_max * sizeof(double));
-//membership_value= (double *) malloc(	DIMENSION_max * sizeof(double));
-//y_co_input= (double *) malloc(	DIMENSION_max * sizeof(double));
-//x_ab_input= (double *) malloc(	DIMENSION_max * sizeof(double));
-//linguistic_term= (char *) malloc(	DIMENSION_max * sizeof(char));
-//linguistic_term= (double *) malloc(	DIMENSION_max * sizeof(double));
 
-
-//     abs1= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
  ii= (int *) malloc(	DIMENSION_max  * sizeof(int));
 
 jj= (int *) malloc(	DIMENSION_max  * sizeof(int));
@@ -634,29 +622,22 @@ jj= (int *) malloc(	DIMENSION_max  * sizeof(int));
 fclose(fpFZCM);
 
 
-//printf("%d",no_trainingscenario);
-//printf("\n%d",no_input_dimension);
-//printf("\n%d",no_cluster);
-
 
 
     i_inp=(double *) malloc(DIMENSION_max * sizeof(double));
     o_oup=(double *) malloc(DIMENSION_max * sizeof(double));
 
-     //i_lterni= (int *) malloc(	LINGUISTIC_max  * sizeof(int));
 
 
 
 
      for (i_index=0;i_index<(no_input+no_output);i_index++)
     {
-   //test1[i_index]=(double *) malloc(DIMENSION_max * sizeof(double));
        linguistic_number[i_index]=(int*) malloc(LINGUISTIC_max  * sizeof(int));
 
 index_output_linguistic[i_index]=(int*) malloc(LINGUISTIC_max  * sizeof(int));
 
     membership_function_value_input[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
-             // linguistic_term_output[i_index]= (double *) malloc(	LINGUISTIC_max * sizeof(double ));
        linguisticinput[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
          linguisticinput1[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
               linguisticoutput[i_index]= (double *) malloc(	LINGUISTIC_max * sizeof(double ));
@@ -675,86 +656,7 @@ index_output_linguistic[i_index]=(int*) malloc(LINGUISTIC_max  * sizeof(int));
                    start[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
                    end[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
                    alpha[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
-                   //small_end[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
-                  //membership_value[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
-//                 aoutput_index1[i_index]= (int *) malloc(	LINGUISTIC_max  * sizeof(int));
-   }
-//    for (i_index1=0;i_index1<no_trainingscenario;i_index1++)
-//    {
-// membership_matrix[i_index1]=(double *) malloc(DIMENSION_max * sizeof(double));
-//randnum[i_index1]=(double *) malloc(DIMENSION_max * sizeof(double));
-//EuD[i_index1]=(double *) malloc(DIMENSION_max * sizeof(double));
-//membership_matrix_update[i_index1]=(double *) malloc(DIMENSION_max * sizeof(double));
-//diff_membership_matrix[i_index1]=(double *) malloc(DIMENSION_max * sizeof(double));
-//
-//    }
-//
-//no_trainingscenario
-//int ***linguistic_number;
-//linguistic_number=(int ***) malloc(no_trainingscenario*sizeof(int**));
-//
-// for (i_index=0;i_index<no_trainingscenario;i_index++)
-//    {
-//       linguistic_number[i_index]=(int **) malloc(DIMENSION_max*sizeof(int *));
-//       for (i_index1=0;i_index1<DIMENSION_max;++i_index1)
-//       {
-//
-//
-//
-//linguistic_number[i_index][i_index1]=(int *)malloc(LINGUISTIC_max*sizeof(int));
-//}
-//    }
 
-//  printf("\n");
-
-
-
-//    fpoutput=fopen("output_mamdani.txt","r");
-//    for (trainingscenario=0;trainingscenario<no_trainingscenario;trainingscenario++)
-//    {
-//            for (dimension=0;dimension<no_output;dimension++)
-//            {
-//
-//                fscanf(fpoutput,"%lf",&o_oup[trainingscenario][dimension]);
-////printf("%lf\t",i_inp[trainingscenario][dimension]);
-//            }
-//         // printf("\n");
-//    }
-//   //printf("\n");
-//    fclose(fpoutput);
-
-
-//    fplinguistic=fopen("mamdani_linguistic.txt","r");
-//
-//
-//            for (dimension=0;dimension<no_input;dimension++)
-//            {
-// for (i_linguistic=0;i_linguistic<no_linguistic;i_linguistic++)
-//    {
-//                fscanf(fplinguistic,"%lf",&i_inp[trainingscenario][dimension]);
-////printf("%lf\t",i_inp[trainingscenario][dimension]);
-//            }
-//         // printf("\n");
-//    }
-//   //printf("\n");
-//    fclose(fplinguistic);
-//fprange=fopen("range_mamdani.txt","r");
-//for (dimension=0;dimension<no_input;dimension++)
-//            {
-//
-//fscanf(fprange,"%lf\t%lf",&min_input[dimension],&max_input[dimension]);
-//printf("\n%lf\t%lf",min_input[dimension],max_input[dimension]);
-//            }
-//
-//            for (dimension=0;dimension<no_output;dimension++)
-//            {
-//
-//fscanf(fprange,"%lf\t%lf",&min_output[dimension],&max_output[dimension]);
-//printf("\n%lf\t%lf",min_output[dimension],max_output[dimension]);
-//            }
-//fclose(fprange);
-// printf("\n");
-//  printf("\n");
 
 
 
@@ -772,7 +674,6 @@ for (dimension=0;dimension<no_input;dimension++)
 
              printf("\n");
             }
-//
   printf("\n");
 for (dimension=0;dimension<no_output;dimension++)
           {
@@ -786,36 +687,8 @@ for (dimension=0;dimension<no_output;dimension++)
 
              printf("\n");
             }
-//
   printf("\n");
 
-
-
-//for (trainingscenario=0;trainingscenario<no_trainingscenario;trainingscenario++)
-//    {
-//            for (dimension=0;dimension<no_input;dimension++)
-//            {
-//ii[trainingscenario][dimension]=0;
-//for (i_lter=0;i_lter<linguistic_input[dimension];i_lter++)
-//            {
-//
-//             if((i_inp[trainingscenario][dimension]>=linguistic_range_input_min[dimension][i_lter]) && (i_inp[trainingscenario][dimension]<=linguistic_range_input_max[dimension][i_lter]))
-//                {
-//
-//                    linguistic_number[trainingscenario][dimension][ii[trainingscenario][dimension]]=i_lter;
-//
-//printf("%lf\t",linguisticinput[dimension][linguistic_number[trainingscenario][dimension][ii[trainingscenario][dimension]]]);
-//ii[trainingscenario][dimension]=ii[trainingscenario][dimension]+1;
-//                }
-//
-//
-//
-//            }
-//
-//            }
-//   }
-//      printf("\n");
-//      printf("\n");
 
 
 data_base(ii,linguistic_number,linguistic_input,&no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max);
@@ -845,40 +718,18 @@ printf("%lf\t",linguisticinput[dimension][linguistic_number[dimension][iii]]);
             {
 
                 linguisticinput1[dimension][linguistic_number[dimension][iii]]=linguisticinput[dimension][linguistic_number[dimension][iii]];
-//printf("%lf\t",linguisticinput1[dimension][linguistic_number[trainingscenario][dimension][iii]]);
 
             }
           }
 
     printf("\n");
-//linguistic_input[2]=8;
-//in_index=1;
-//
-//  for (dimension=0;dimension<3;dimension++)
-//            {
-//          for (i_lter2=0;i_lter2<linguistic_input[dimension];i_lter2++)
-//        {
-//
-//
-//
-//in_index=i_lter2*in_index;
-//
-//
-//printf("\n%d",in_index);
-//
-//
-//        }
-//        }
 
 
 
 
 
 rule_base(&i_lterni,&in_indext,linguistic_input,linguistic_output,linguisticinput1,linguisticinput,linguisticoutput1,linguisticoutput_if_else,ii,linguistic_number,&i_lternt,linguisticoutput,index_output_linguistic,&no_output);
-//
-//
  printf("\n%d",i_lterni);
-//
  for (ii_index=0;ii_index<i_lterni;ii_index++)
       {
 printf("\n%lf",linguisticoutput1[0][ii_index]);
@@ -886,35 +737,6 @@ printf("\n%lf",linguisticoutput1[0][ii_index]);
 
 
  printf("\n");
-
-
-
- ////not in function
-//for (dimension=0;dimension<no_output;dimension++)
-//        {
-//
-//     for (ii_index=0;ii_index<i_lterni;ii_index++)
-//      {
-//
-//         for (i_lter=0;i_lter<linguistic_output[0];i_lter++)
-//            {
-//
-//
-//
-//            if(linguisticoutput1[0][ii_index]==linguisticoutput[0][i_lter])
-//            {
-//                index_output_linguistic[0][ii_index]=i_lter;
-//            }
-//
-//
-//            }
-//printf("\n%d", index_output_linguistic[dimension][ii_index]);
-//      }
-//
-//        }
-
-     ////////not in function
-
 
 
 
@@ -992,7 +814,5 @@ printf("\n%lf",centroid[dimension][iii]);
             }
          printf("\n%lf",crisp_output[dimension]);
         }
-
-
 
 }
