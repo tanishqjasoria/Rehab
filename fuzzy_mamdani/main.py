@@ -1,4 +1,5 @@
 import time
+import math
 
 DIMENSION_max = 200
 LINGUISTIC_max = 200 # Max swarm size
@@ -250,3 +251,26 @@ def main():
             print("%lf\t\t%lf\n",linguistic_range_output_min[dimension][i_lter],linguistic_range_output_max[dimension][i_lter])
         print("\n")
     print("\n")
+    data_base(ii,linguistic_number,linguistic_input,&no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    for dimension in range(no_input):
+        for iii in range(ii[dimension]):
+            print("%lf\t",linguisticinput[dimension][linguistic_number[dimension][iii]])
+    for dimension in range(no_input):
+        for iii in range(ii[dimension]):
+            linguisticinput1[dimension][linguistic_number[dimension][iii]]=linguisticinput[dimension][linguistic_number[dimension][iii]]
+    rule_base(i_lterni,in_indext,linguistic_input,linguistic_output,linguisticinput1,linguisticinput,linguisticoutput1,linguisticoutput_if_else,ii,linguistic_number,&i_lternt,linguisticoutput,index_output_linguistic,no_output)
+    print("\n%d",i_lterni)
+    for ii_index in i_lterni:
+        print("\n%lf",linguisticoutput1[0][ii_index])
+
+    membership_function(membership_function_value_input,ii,linguistic_number,linguistic_input,no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    for dimension in range(no_input):
+        for iii in range(ii[dimension]):
+            print("\n%lf\t",membership_function_value_input[dimension][linguistic_number[dimension][iii]])
+    iii_index = 0;
+    for dimension in range(no_input):
+        for iii in range(ii[dimension]):
+            for dimension1 in range(no_input):
+                alpha[0][iii_index]=min(membership_function_value_input[dimension][linguistic_number[dimension][iii]],membership_function_value_input[dimension1][linguistic_number[dimension1][jjj]])
+                printf("\n%lf",alpha[0][iii_index])
+                iii_index=iii_index+1
