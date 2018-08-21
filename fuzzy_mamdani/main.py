@@ -272,5 +272,23 @@ def main():
         for iii in range(ii[dimension]):
             for dimension1 in range(no_input):
                 alpha[0][iii_index]=min(membership_function_value_input[dimension][linguistic_number[dimension][iii]],membership_function_value_input[dimension1][linguistic_number[dimension1][jjj]])
-                printf("\n%lf",alpha[0][iii_index])
+                print("\n%lf",alpha[0][iii_index])
                 iii_index=iii_index+1
+    area_under_curve(index_output_linguistic,i_lterni,area,alpha,start,end,linguistic_output,&no_output,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    #printf("\n");
+
+    for dimension in range(no_output):
+        for iii in range(i_lterni):
+            print("\n%lf",area[dimension][iii])
+    centroid_under_curve(index_output_linguistic,i_lterni,centroid,alpha,start,end,linguistic_output,no_output,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    for dimension in range(no_output):
+        for iii in range(i_lterni):
+            print("\n%lf",centroid[dimension][iii])
+    for dimension in range(no_output):
+        LCM[dimension]=0
+        HCF[dimension]=0
+        for iii range(i_lterni):
+            LCM[dimension]=LCM[dimension]+area[dimension][iii]*centroid[dimension][iii]
+            HCF[dimension]=HCF[dimension]+area[dimension][iii]
+            crisp_output[dimension]=LCM[dimension]/HCF[dimension]
+        print("\n%lf",crisp_output[dimension])
