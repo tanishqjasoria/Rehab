@@ -10,7 +10,7 @@ eta = 0.01
 #file management to be takn care of
 li = [4,5]
 lo = [5]
-i_inp = [1.04 30]
+i_inp = [1.04, 30]
 linguisticinput = [[-2,-1,1,2],[-2,-1,0,1,2]]
 linguisticoutput = [-2,-1,0,1,2]
 linguisticoutput_if_else = [[0],[1],[-1],[-1],[0],[0],[0],[2],[0],[0],[0],[0],[1],[0],[0],[0],[0],[0],[0],[0]]
@@ -75,7 +75,7 @@ def data_base(ii,linguistic_number,li,no_input,i_inp,linguistic_range_input_min,
     for dimension in range(no_input):
         ii[dimension]=0;
         for i_lter in range(li[dimension]):
-            if ((i_inp[dimension]>=linguistic_range_input_min[dimension][i_lter]) && (i_inp[dimension]<=linguistic_range_input_max[dimension][i_lter])):
+            if ((i_inp[dimension]>=linguistic_range_input_min[dimension][i_lter]) & (i_inp[dimension]<=linguistic_range_input_max[dimension][i_lter])):
                 linguistic_number[dimension][ii[dimension]]=i_lter;
                 ii[dimension]=ii[dimension]+1;
 
@@ -95,9 +95,9 @@ def rule_base(i_ltern,in_indext,li,lo,linguisticinput1,linguisticinput,linguisti
                 for i_lter1 in range(li[1]):
                     in_indext=i_lternt
                     i_lternt=i_lternt+1
-                    if ((linguisticinput1[0][ln[0][i_lter2]]==linguisticinput[0][i_lter])&&(linguisticinput1[1][ln[1][i_lter3]]==linguisticinput[1][i_lter1])):
+                    if ((linguisticinput1[0][ln[0][i_lter2]]==linguisticinput[0][i_lter])&(linguisticinput1[1][ln[1][i_lter3]]==linguisticinput[1][i_lter1])):
                         linguisticoutput1[0][i_ltern]=linguisticoutput_if_else[0][in_indext]
-                        i_ltern = i_ltern+
+                        i_ltern = i_ltern+1
     for dimension in range(no_output):
         for ii_index in range(i_ltern):
             for i_lter in range(lo[0]):
@@ -115,14 +115,14 @@ def main():
             print("%lf\t\t%lf\n",linguistic_range_output_min[dimension][i_lter],linguistic_range_output_max[dimension][i_lter])
         print("\n")
     print("\n")
-    data_base(ii,linguistic_number,linguistic_input,&no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    data_base(ii,linguistic_number,linguistic_input,no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
     for dimension in range(no_input):
         for iii in range(ii[dimension]):
             print("%lf\t",linguisticinput[dimension][linguistic_number[dimension][iii]])
     for dimension in range(no_input):
         for iii in range(ii[dimension]):
             linguisticinput1[dimension][linguistic_number[dimension][iii]]=linguisticinput[dimension][linguistic_number[dimension][iii]]
-    rule_base(i_lterni,in_indext,linguistic_input,linguistic_output,linguisticinput1,linguisticinput,linguisticoutput1,linguisticoutput_if_else,ii,linguistic_number,&i_lternt,linguisticoutput,index_output_linguistic,no_output)
+    rule_base(i_lterni,in_indext,linguistic_input,linguistic_output,linguisticinput1,linguisticinput,linguisticoutput1,linguisticoutput_if_else,ii,linguistic_number,i_lternt,linguisticoutput,index_output_linguistic,no_output)
     print("\n%d",i_lterni)
     for ii_index in i_lterni:
         print("\n%lf",linguisticoutput1[0][ii_index])
@@ -138,7 +138,7 @@ def main():
                 alpha[0][iii_index]=min(membership_function_value_input[dimension][linguistic_number[dimension][iii]],membership_function_value_input[dimension1][linguistic_number[dimension1][jjj]])
                 print("\n%lf",alpha[0][iii_index])
                 iii_index=iii_index+1
-    area_under_curve(index_output_linguistic,i_lterni,area,alpha,start,end,linguistic_output,&no_output,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
+    area_under_curve(index_output_linguistic,i_lterni,area,alpha,start,end,linguistic_output,no_output,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
     #printf("\n");
 
     for dimension in range(no_output):
@@ -151,7 +151,7 @@ def main():
     for dimension in range(no_output):
         LCM[dimension]=0
         HCF[dimension]=0
-        for iii range(i_lterni):
+        for iii in range(i_lterni):
             LCM[dimension]=LCM[dimension]+area[dimension][iii]*centroid[dimension][iii]
             HCF[dimension]=HCF[dimension]+area[dimension][iii]
             crisp_output[dimension]=LCM[dimension]/HCF[dimension]
