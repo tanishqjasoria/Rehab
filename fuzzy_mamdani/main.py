@@ -8,6 +8,16 @@ g_fcm = 1.25
 eta = 0.01
 
 #file management to be takn care of
+li = [4,5]
+lo = [5]
+i_inp = [1.04 30]
+linguisticinput = [[-2,-1,1,2],[-2,-1,0,1,2]]
+linguisticoutput = [-2,-1,0,1,2]
+linguisticoutput_if_else = [[0],[1],[-1],[-1],[0],[0],[0],[2],[0],[0],[0],[0],[1],[0],[0],[0],[0],[0],[0],[0]]
+linguistic_range_input_min = [[0.1,0.1,0.8,1.5],[-90,-90,-45,0,45]]
+linguistic_range_input_max = [[0.8,1.5,2.2,2.2],[-45,0,45,90,90]]
+linguistic_range_output_min = [-90,-90,-45,0,-45]
+linguistic_range_output_max = [-45,0,45,90,90]
 
 def centroid_under_curve(index_output_linguistic,i_lterni,centroid,y_upper,start,end,lo,no_output,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max):
     i_lter = 0
