@@ -658,10 +658,12 @@ index_output_linguistic[i_index]=(int*) malloc(LINGUISTIC_max  * sizeof(int));
                    alpha[i_index]= (double *) malloc(	LINGUISTIC_max  * sizeof(double ));
 
 
-
+}
 
 
 file_management(i_inp,&index_no_if_else,linguisticinput,linguisticoutput,linguisticoutput_if_else,linguistic_input,linguistic_output,&no_input,&no_output,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max);
+//file_management(i_inp,index_no_if_else,linguisticinput,linguisticoutput,linguisticoutput_if_else,linguistic_input,linguistic_output,&no_input,&no_output,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max);
+//file_management(i_inp,index_no_if_else,linguisticinput[],double *linguisticoutput[],double *linguisticoutput_if_else[],int *li,int *lo,int *no_input,int *no_output,double *linguistic_range_input_min[],double *linguistic_range_input_max[],double *linguistic_range_output_min[],double *linguistic_range_output_max[])
 
 for (dimension=0;dimension<no_input;dimension++)
           {
