@@ -121,7 +121,7 @@ for (dimension=0;dimension<*no_input;dimension++)
              for (i_lter=0;i_lter<li[dimension];i_lter++)
             {
 
-         fscanf(fplinguisticmamdaniinput,"%lf",(*(linguisticinput+dimension)+i_lter));
+         fscanf(fplinguisticmamdaniinput,"%lf",(*linguisticinput[dimension][i_lter]));
      // printf("%s\t",linguistic_term_input[i_lter]);
 
             }
