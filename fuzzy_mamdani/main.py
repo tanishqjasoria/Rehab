@@ -112,13 +112,51 @@ def main():
             print("%lf\t\t%lf\n",linguistic_range_input_min[dimension][i_lter],linguistic_range_input_max[dimension][i_lter])
         print("\n")
     print("\n")
+
+    #Definitions
+    min_input = [1.0]*200
+    max_input = [1.0]*200
+    min_output
+    max_output
+    sum_LCM
+    sum_HCF
+    LCM
+    HCF
+    crisp_output
+    ii
+    jj
+    i_inp
+    o_oup
+
+    linguistic_number = [[0]*20]*20
+    index_output_linguistic =  [[0]*20]*20
+    membership_function_value_input= [[1.000] * 20]*20
+    linguisticinput= [[1.000 ]* 20]*20
+    linguisticinput1= [[1.000 ]* 20]*20
+    linguisticoutput= [[1.000 ]* 20]*20
+    linguisticoutput1= [[1.000 ]* 20]*20
+    linguisticoutput_if_else= [[1.000 ]* 20]*20
+    linguistic_range_input_min= [[1.000 ]* 20]*20
+    linguistic_range_input_max= [[1.000 ]* 20]*20
+    linguistic_range_output_min= [[1.000 ]* 20]*20
+    linguistic_range_output_max= [[1.000 ]* 20]*20
+    area= [[1.000 ]* 20]*20
+    centroid= [[1.000 ]* 20]*20
+    y_upper= [[1.000 ]* 20]*20
+    start= [[1.000 ]* 20]*20
+    end= [[1.000 ]* 20]*20
+    alpha= [[1.000 ]* 20]*20
+
+
+
+
+
+
     #for dimension in range(no_output):
     #    for i_lter in range(lo[dimension]):
     #        print(linguistic_range_output_min[dimension][i_lter])
     #        print("   ")
     #        print(linguistic_range_output_max[dimension][i_lter]))
-    ii=[0]*5000
-    linguistic_number = [[0]*100]*5000
     data_base(ii,linguistic_number,li,no_input,i_inp,linguistic_range_input_min,linguistic_range_input_max,linguistic_range_output_min,linguistic_range_output_max)
     for dimension in range(no_input):
         for iii in range(ii[dimension]):
