@@ -8,12 +8,12 @@
 #eta = 0.01
 
 #file management to be takn care of
-li = [4,5]
-lo = [5,5,5]
-i_inp = [1.04, 30]
-linguisticinput = [[-2,-1,1,2],[-2,-1,0,1,2]]
-linguisticoutput = [[-2,-1,0,1,2],[-2,-1,0,1,2],[-2,-1,0,1,2]]
-linguisticoutput_if_else = [[0,1,-1,-1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0],[0,1,-1,-1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0],[0,1,-1,-1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0]]
+li = [7,7]
+lo = [7,7,7]
+i_inp = [1.04, 30]   #Input
+linguisticinput = [[-3,-2,-1,0,1,2,3],[-3,-2,-1,0,1,2,3]]
+linguisticoutput = [[-3,-2,-1,0,1,2,3],[-3,-2,-1,0,1,2,3],[-3,-2,-1,0,1,2,3]]
+linguisticoutput_if_else = [[-3,-3,-3,-3,-2,-1,0,-3,-3,-3,-2,-1,0,1,-3,-3,-2,-1,0,1,2,-3,-2,-1,0,1,2,3,-2,-1,0,1,2,3,3,-1,0,1,2,3,3,3,0,1,2,3,3,3,3],[-3,-3,-3,-3,-2,-1,0,-3,-3,-3,-2,-1,0,1,-3,-3,-2,-1,0,1,2,-3,-2,-1,0,1,2,3,-2,-1,0,1,2,3,3,-1,0,1,2,3,3,3,0,1,2,3,3,3,3],[-3,-3,-3,-3,-2,-1,0,-3,-3,-3,-2,-1,0,1,-3,-3,-2,-1,0,1,2,-3,-2,-1,0,1,2,3,-2,-1,0,1,2,3,3,-1,0,1,2,3,3,3,0,1,2,3,3,3,3]]
 #[[0],[1],[-1],[-1],[0],[0],[0],[2],[0],[0],[0],[0],[1],[0],[0],[0],[0],[0],[0],[0]]
 linguistic_range_input_min = [[0.1,0.1,0.8,1.5],[-90,-90,-45,0,45]]
 linguistic_range_input_max = [[0.8,1.5,2.2,2.2],[-45,0,45,90,90]]
@@ -51,9 +51,9 @@ def area_under_curve(index_output_linguistic,i_lterni,area,y_upper,start,end,lo,
                end[dimension][ii_index]=linguistic_range_output_max[dimension][index_output_linguistic[dimension][ii_index]]
                area[dimension][ii_index]=abs((1.0/(start[dimension][ii_index]-end[dimension][ii_index]))*(0.5*(end[dimension][ii_index]*end[dimension][ii_index]-start[dimension][ii_index]*start[dimension][ii_index])-end[dimension][ii_index]*(end[dimension][ii_index]-start[dimension][ii_index])))
                area[dimension][ii_index]=(area[dimension][ii_index]-(1.0-y_upper[dimension][ii_index])*(1.0-y_upper[dimension][ii_index])*area[dimension][ii_index])
-            
+
             elif index_output_linguistic[dimension][ii_index]==lo[dimension]-1:
-                 start[dimension][ii_index]=linguistic_range_output_min[dimension][index_output_linguistic[dimension][ii_index]]              
+                 start[dimension][ii_index]=linguistic_range_output_min[dimension][index_output_linguistic[dimension][ii_index]]
                  end[dimension][ii_index]=linguistic_range_output_max[dimension][index_output_linguistic[dimension][ii_index]]
                  area[dimension][ii_index]=abs((1.0/(start[dimension][ii_index]-end[dimension][ii_index]))*(0.5*(end[dimension][ii_index]*end[dimension][ii_index]-start[dimension][ii_index]*start[dimension][ii_index])-end[dimension][ii_index]*(end[dimension][ii_index]-start[dimension][ii_index])))
                  area[dimension][ii_index]=(area[dimension][ii_index]-(1.0-y_upper[dimension][ii_index])*(1-y_upper[dimension][ii_index])*area[dimension][ii_index])
@@ -103,7 +103,7 @@ def rule_base(i_ltern,in_indext,li,lo,linguisticinput1,linguisticinput,linguisti
                 if (linguisticoutput1[dimension][ii_index]==linguisticoutput[dimension][i_lter]):
                     index_output_linguistic[dimension][ii_index]=i_lter
     return (i_ltern,linguisticoutput1,index_output_linguistic)
-                    
+
 
 def main():
     no_output = 3
@@ -119,17 +119,17 @@ def main():
     #inti_ltern =0
     i_lterni=0
    # i_lter2=0
-    i_lternt =0 
+    i_lternt =0
     #i_lter3=0
     in_indext = 0
 #    min_input = [1.0]*200
 #    max_input = [1.0]*200
 #    min_output = [1.0]*200
 #    max_output= [1.0]*200
-    LCM= [0 for x in range(20)] 
-    HCF= [0 for x in range(20)] 
-    crisp_output= [0 for x in range(20)] 
-    ii= [0 for x in range(20)] 
+    LCM= [0 for x in range(20)]
+    HCF= [0 for x in range(20)]
+    crisp_output= [0 for x in range(20)]
+    ii= [0 for x in range(20)]
     #jj= [1.0]*200
 #    i_inp= [1.0]*200
     #o_oup= [1.0]*200
@@ -174,9 +174,9 @@ def main():
 #    for dimension in range(no_input):
 #        for iii in range(ii[dimension]):
 #            print(" memeber ",membership_function_value_input[dimension][linguistic_number[dimension][iii]],dimension,linguistic_number[dimension][iii])
-            
 
-    
+
+
     for dimension2 in range(no_output):
         iii_index = 0
         for dimension in range(no_input-1):
