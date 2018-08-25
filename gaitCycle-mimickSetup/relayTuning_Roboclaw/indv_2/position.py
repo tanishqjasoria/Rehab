@@ -81,7 +81,7 @@ while True:
     else :
 		#print "Data is :",chunk
 		for j in range(0,len(chunk)):
-			
+
 			if(chunk[j]==','):
 				motor_data[i]=float(data)
 				data=""
@@ -89,7 +89,7 @@ while True:
 				if(i==5):
 					break
 			else:
-				data=data+chunk[j]	
+				data=data+chunk[j]
 
 			#print "D",chunk[j]
 
@@ -103,10 +103,10 @@ while True:
 			{
 
 			}
-		
+
 		rc.SpeedAccelDeccelPositionM1(address,0,0,0,int(-(motor_data[3]/360)*2000),0)
 		rc.SpeedAccelDeccelPositionM2(address,0,0,0,int(-(motor_data[4]/360)*2000),0)
-		displayspeed(time.clock()-init_time)
+		#displayspeed(time.clock()-init_time)
 		print "Time_Actual",(time.clock()-init_time)
 
 
@@ -115,24 +115,24 @@ while True:
 while(1):
 	print "Pos 50000"
 	rc.SpeedAccelDeccelPositionM2(address,0,0,0,2000,0)
-	
+
 	time.sleep(2)
-	
+
 	print "Pos 0"
 	rc.SpeedAccelDeccelPositionM2(address,0,0,0,0,0)
-	
-  
+
+
   	time.sleep(2)
 
 	print "Pos 50000"
 	rc.SpeedAccelDeccelPositionM1(address,0,0,0,2000,0)
-	
+
 	time.sleep(2)
-	
+
 	print "Pos 0"
 	rc.SpeedAccelDeccelPositionM1(address,0,0,0,0,0)
-	
-  
+
+
   	time.sleep(2)
 
 '''
