@@ -137,7 +137,7 @@ Wire.write(0x6B);                                                               
 Wire.write(0);                                                                           //awakes MCU by sending 0 to above register address
 Wire.endTransmission(true);
 
-Data.id = 3;
+Data.id = 2;
 
 radio.begin();
 radio.setDataRate(RF24_2MBPS);
@@ -163,9 +163,16 @@ void loop(void)
 
 void _print()
 {
-  Serial.print("pitch =");Serial.print(pitch);
-  Serial.print("  roll =");Serial.print(roll);
-  Serial.print("  gyrx =");Serial.print(Data.gyrx);
-  Serial.print("  gyry =");Serial.print(Data.gyry);
-  Serial.print("  gyrz =");Serial.println(Data.gyrz);
+  //Serial.print("pitch =");
+  Serial.print(pitch);
+  Serial.print(',');
+  Serial.print(pitch);
+  Serial.print(',');
+  Serial.print(pitch);
+  Serial.print(',');
+  Serial.println(pitch);
+//  Serial.print("  roll =");Serial.print(roll);
+//  Serial.print("  gyrx =");Serial.print(Data.gyrx);
+//  Serial.print("  gyry =");Serial.print(Data.gyry);
+//  Serial.print("  gyrz =");Serial.println(Data.gyrz);
 }

@@ -64,7 +64,7 @@ void setup(void)
 Serial.begin(115200);                                                                    //data send by IMU is too fast
 mpu_init();
 
-Data.id = 3;
+Data.id = 2;
 
 radio.begin();
 radio.setDataRate(RF24_2MBPS);
